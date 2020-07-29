@@ -17,7 +17,7 @@ I am currently in charge as Lead Developer for [Namecheap](https://namecheap.com
 
 - [Twitter](https://twitter.com/gfazioli)
 - [Facebook](https://www.facebook.com/undolog)
-- [Linkein](https://it.linkedin.com/in/giovambattistafazioli)
+- [Linkedin](https://it.linkedin.com/in/giovambattistafazioli)
 - [Slack](https://undolog.slack.com)
 
 ## Tech stuff 🖥
@@ -25,7 +25,7 @@ I am currently in charge as Lead Developer for [Namecheap](https://namecheap.com
 - [GitHub](https://github.com/gfazioli)
 - [CodeSandbox](https://codesandbox.io/u/gfazioli)
 - [npm](https://www.npmjs.com/~gfazioli)
-- [Personal Blob](https://undolog.com)
+- [Personal Blog](http://undolog.com)
 
 
 
