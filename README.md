@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+https://github-readme-stats.vercel.app/api?username=gfazioli&show_icons=true&theme=dark
 
 Hi there, my name is Giovambattista (John) Fazioli. I am an Italian Lead Developer. Positive and creative, I’m a natural problem-solver, passionate about bringing ideas to life.
 
