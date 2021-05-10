@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-![gfazioli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gfazioli&show_icons=true&theme=dark)
+<img src="https://raw.githubusercontent.com/gfazioli/gfazioli/master/code.jpg"/>
 
 Hi there, my name is Giovambattista (John) Fazioli. I am an Italian Lead Developer. Positive and creative, I’m a natural problem-solver, passionate about bringing ideas to life.
 
-<img src="https://raw.githubusercontent.com/gfazioli/gfazioli/master/code.jpg"/>
+![gfazioli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gfazioli&show_icons=true&theme=dark)
+
 
 I started developing in 1983! Amazing years! In the beginning,  I used to work in design and graphic applications. I worked on Commodore Vic-20, Commodore 64, Commodore 128, Amiga 1000, 500 and 2000. I loved to develop in Assembly; Z-80, 6510, 6520, 8086, 80×86 and Motorola series (680xx).
 
