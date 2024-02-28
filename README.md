@@ -17,16 +17,18 @@ I am currently in charge as Lead Developer for [Namecheap](https://namecheap.com
         <img height="320" src="https://github-profile-trophy.vercel.app/?username=gfazioli&theme=onedark&margin-w=3&margin-h=3&no-frame=true&row=2&column=3">
     </a> 
     <a href="https://github.com/gfazioli">
-        <img height="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfazioli&theme=onedark&hide_border=true">
+        <img height="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfazioli&theme=great-gatsby&hide_border=true">
     </a>
 </div>
 
+
+
 <div align="center">
     <a href="https://github.com/gfazioli">
-        <img height="166" src="https://github-readme-stats.vercel.app/api?username=gfazioli&show_icons=true&theme=onedark&hide_border=true">
+        <img height="166" src="https://github-readme-stats.vercel.app/api?username=gfazioli&show_icons=true&theme=great-gatsby&hide_border=true">
     </a> 
     <a href="https://github.com/gfazioli">
-        <img height="166" src="http://github-readme-streak-stats.herokuapp.com/?user=gfazioli&theme=onedark&hide_border=true">
+        <img height="166" src="http://github-readme-streak-stats.herokuapp.com/?user=gfazioli&theme=great-gatsby&hide_border=true">
     </a>
 </div>
   
