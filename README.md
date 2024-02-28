@@ -12,7 +12,27 @@ So I started my own company and startups, where my position was CTO.
 
 I am currently in charge as Lead Developer for [Namecheap](https://namecheap.com). I enjoy working with include ReactJS, TypeScript and NextJS.
 
-![gfazioli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gfazioli&show_icons=true&theme=dark)
+<div align="center">
+    <a href="https://github.com/gfazioli">
+        <img height="320" src="https://github-profile-trophy.vercel.app/?username=gfazioli&theme=onedark&margin-w=3&margin-h=3&no-frame=true&row=2&column=3">
+    </a> 
+    <a href="https://github.com/gfazioli">
+        <img height="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfazioli&theme=onedark&hide_border=true">
+    </a>
+</div>
+
+<div align="center">
+    <a href="https://github.com/gfazioli">
+        <img height="166" src="https://github-readme-stats.vercel.app/api?username=gfazioli&show_icons=true&theme=onedark&hide_border=true">
+    </a> 
+    <a href="https://github.com/gfazioli">
+        <img height="166" src="http://github-readme-streak-stats.herokuapp.com/?user=gfazioli&theme=onedark&hide_border=true">
+    </a>
+</div>
+  
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gfazioli&theme=xcode&hide_border=true&area=true" width="822"/>
+</div>
 
 
 ## Find me around the web 🌎
@@ -31,17 +51,3 @@ I am currently in charge as Lead Developer for [Namecheap](https://namecheap.com
 
 
 
-<!--
-**gfazioli/gfazioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
