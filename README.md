@@ -33,7 +33,7 @@ I am currently in charge as Lead Developer for [Namecheap](https://namecheap.com
 </div>
   
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gfazioli&theme=xcode&hide_border=true&area=true" width="822"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gfazioli&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 
