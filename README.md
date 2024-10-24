@@ -26,8 +26,10 @@
 > [!IMPORTANT]
 > <h3>⭐ Projects</h3>
 >
-> - [WP Bones](https://wpbones.com) - _A Lightware framework_
-> - [Mantine Extension](https://mantine-extensions.vercel.app) - _Mantine UI awesome components_
+> - [WP Bones](https://wpbones.com) - _A lightweight framework that offers tools and guidelines to simplify WordPress plugin development_
+> - [Mantine Extension](https://mantine-extensions.vercel.app) - _Mantine UI awesome components extensions_
+> - [Scotty](https://wordpress.org/plugins/scotty/) - _The ultimate solution for controlling, cleaning, repairing, and managing advanced settings in WordPress_
+> - [Bannerize](https://bannerize.vercel.app/) - _Is a WordPress plugin that allows you to create and manage advertising banners easily and quickly_
 
 
 ---
