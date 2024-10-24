@@ -7,63 +7,53 @@
 
 
 <div align="center">
-<h4>Hi, my name is Giovambattista (John) Fazioli. I am an Italian Lead Developer. Positive and creative, I am a natural problem-solver passionate about bringing ideas to life.</h4>
+<h4>Hi, my name is Giovambattista (John) Fazioli.<br/> I am an Italian Lead Developer. Positive and creative, I am a natural problem-solver passionate about bringing ideas to life.</h4>
 </div>
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/25b93dfd-c058-4489-a792-5f253caaae60"/>
 </div>
 
-I started developing in 1983! Amazing years! In the beginning,  I used to work in design and graphic applications. I worked on Commodore Vic-20, Commodore 64, Commodore 128, Amiga 1000, 500 and 2000. I loved to develop in Assembly; Z-80, 6510, 6520, 8086, 80×86 and Motorola series (680xx).
+> [!NOTE]
+> I started developing in 1983! Amazing years! In the beginning,  I used to work in design and graphic applications. I worked on Commodore Vic-20, Commodore 64, Commodore 128, Amiga 1000, 500 and 2000. I loved to develop in Assembly; Z-80, 6510, 6520, 8086, 80×86 and Motorola series (680xx).<br/><br/>
+> Next, I was engaged by a telecommunication company as a program developer. I worked in C/C++ (Digital Unix and Sun OS), PHP, Microsoft Visual Basic, Microsoft Visual C++ and Macromedia Actionscript. I worked for them for about 7 years and, after that, I become a freelance and decided to work for myself!<br/><br/>
+> So I started my own company and startups, where my position was CTO.
 
-Next, I was engaged by a telecommunication company as a program developer. I worked in C/C++ (Digital Unix and Sun OS), PHP, Microsoft Visual Basic, Microsoft Visual C++ and Macromedia Actionscript. I worked for them for about 7 years and, after that, I become a freelance and decided to work for myself!
+> [!TIP]
+> I am currently in charge as Lead Developer for [Namecheap](https://namecheap.com). I enjoy working with include ReactJS, TypeScript and NextJS.
 
-So I started my own company and startups, where my position was CTO.
+---
+> [!IMPORTANT]
+> <h3>⭐ Projects</h3>
+>
+> - [WP Bones](https://wpbones.com) - _A Lightware framework_
+> - [Mantine Extension](https://mantine-extensions.vercel.app) - _Mantine UI awesome components_
 
-I am currently in charge as Lead Developer for [Namecheap](https://namecheap.com). I enjoy working with include ReactJS, TypeScript and NextJS.
 
 ---
 
-<div align="center">
-    <h3>⭐ Projects</h3>
-    <br />
-    
-<div>
-    <a href="https://wpbones.com">WP Bones</a>
-</div>
+> [!TIP]
+> <h3>⭐ Tech Links</h3>
+>
+> - [Undolog.com](https://undolog.com) - _Pensonal Tech Blog_
+> - [PensieriSottili.com](https.//pensierisottili.com) - _Personal Blog_
+> - [Medium](https://medium.com/@giovambattista.fazioli) - _Medium articles_
+> - [CodeSandbox](https://codesandbox.io/u/gfazioli) - _Code Sandbox fanny stuff_
+> - [NPM](https://www.npmjs.com/~gfazioli) - _NPM Packages_
+> - [Composer](https://packagist.org/users/gfazioli/packages/) - _Composer Packages_
+>
 
-<div>
-    <a href="https://mantine-extensions.vercel.app">Mantine Extensions</a>
-</div>
-    
-</div>
-
----
+<hr/>
 
 <div align="center">
-    <h3>Find me 👀</h3>
-</div>    
 
-<details>
-  <summary>Tech Link 🖥</summary>
-  <ul>
-    <li>🔗 <a href="http://undolog.com">undolog.com</a> (Personal Tech Blog)</li> 
-    <li>🔗 <a href="https://github.com/gfazioli">GitHub</a></li>
-    <li>🔗 <a href="https://codesandbox.io/u/gfazioli">CodeSandbox</a></li>
-    <li>🔗 <a href="https://www.npmjs.com/~gfazioli">npm</a></li>
-    <li>🔗 <a href="http://pensierisottili.com">pensierisottili.com</a> (Personal Blog)</li> 
-  </ul>
-</details>
+[![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/gfazioli) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%231877F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://it.linkedin.com/in/giovambattistafazioli) &nbsp;
+[![Medium](https://img.shields.io/badge/medium-%231877F2.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@giovambattista.fazioli) &nbsp;
+[![Slack](https://img.shields.io/badge/Slack-%231877F2.svg?style=for-the-badge&logo=Slack&logoColor=white)](https://undolog.slack.com) &nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/undolog) &nbsp;
 
-<details>
-  <summary>Social 💬</summary>
-  <ul>
-   <li>🔗 <a href="https://twitter.com/gfazioli">Twitter</a></li>
-    <li>🔗 <a href="https://www.facebook.com/undolog">Facebook</a></li>
-    <li>🔗 <a href="https://it.linkedin.com/in/giovambattistafazioli">Linkedin</a></li>
-    <li>🔗 <a href="https://undolog.slack.com">Slack</a></li>
-  </ul>
-</details>
+</div>
 
 <hr/>
 
