@@ -38,7 +38,7 @@
 > <h3>⭐ Tech Links</h3>
 >
 > - [Undolog.com](https://undolog.com) - _Pensonal Research & Development Blog_
-> - [PensieriSottili.com](https.//pensierisottili.com) - _Personal Blog_
+> - [PensieriSottili.com](https://pensierisottili.com) - _Personal Blog_
 > - [Medium](https://medium.com/@giovambattista.fazioli) - _Medium articles_
 > - [CodeSandbox](https://codesandbox.io/u/gfazioli) - _Code Sandbox fanny stuff_
 > - [NPM](https://www.npmjs.com/~gfazioli) - _NPM Packages_
