@@ -23,23 +23,45 @@ So I started my own company and startups, where my position was CTO.
 I am currently in charge as Lead Developer for [Namecheap](https://namecheap.com). I enjoy working with include ReactJS, TypeScript and NextJS.
 
 ---
+
+<div align="center">
+    <h3>⭐ Projects</h3>
+    <br />
+    
+<div>
+    <a href="https://wpbones.com">WP Bones</a>
+</div>
+
+<div>
+    <a href="https://mantine-extensions.vercel.app">Mantine Extensions</a>
+</div>
+    
+</div>
+
+---
+
+<div align="center">
+    <h3>Find me 👀</h3>
+</div>    
+
 <details>
-  <summary>Find me around the web 🌎</summary>
+  <summary>Tech Link 🖥</summary>
   <ul>
-   <li><a href="https://twitter.com/gfazioli">Twitter</a></li>
-    <li><a href="https://www.facebook.com/undolog">Facebook</a></li>
-    <li><a href="https://it.linkedin.com/in/giovambattistafazioli">Linkedin</a></li>
-    <li><a href="https://undolog.slack.com">Slack</a></li>
+    <li>🔗 <a href="http://undolog.com">undolog.com</a> (Personal Tech Blog)</li> 
+    <li>🔗 <a href="https://github.com/gfazioli">GitHub</a></li>
+    <li>🔗 <a href="https://codesandbox.io/u/gfazioli">CodeSandbox</a></li>
+    <li>🔗 <a href="https://www.npmjs.com/~gfazioli">npm</a></li>
+    <li>🔗 <a href="http://pensierisottili.com">pensierisottili.com</a> (Personal Blog)</li> 
   </ul>
 </details>
 
 <details>
-  <summary>Tech stuff 🖥</summary>
+  <summary>Social 💬</summary>
   <ul>
-<li><a href="https://github.com/gfazioli">GitHub</a></li>
-    <li><a href="https://codesandbox.io/u/gfazioli">CodeSandbox</a></li>
-    <li><a href="https://www.npmjs.com/~gfazioli">npm</a></li>
-    <li><a href="http://undolog.com">Personal Blog</a></li>
+   <li>🔗 <a href="https://twitter.com/gfazioli">Twitter</a></li>
+    <li>🔗 <a href="https://www.facebook.com/undolog">Facebook</a></li>
+    <li>🔗 <a href="https://it.linkedin.com/in/giovambattistafazioli">Linkedin</a></li>
+    <li>🔗 <a href="https://undolog.slack.com">Slack</a></li>
   </ul>
 </details>
 
