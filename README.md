@@ -28,8 +28,26 @@
 >
 > - [WP Bones](https://wpbones.com) - _A lightweight framework that offers tools and guidelines to simplify WordPress plugin development_
 > - [Mantine Extension](https://mantine-extensions.vercel.app) - _Mantine UI awesome components extensions_
+>
+> #### Mantine UI Components
+>
+> - [Mantine Flip](https://gfazioli.github.io/mantine-flip/) - _A Mantine component that flips the content of the component when hovered over._
+> - [Mantine Split Pane](https://gfazioli.github.io/mantine-split-pane/) - _A Mantine component that manages split panes allows users to divide and resize content areas within a layout efficiently_
+> - [Mantine Marquee](https://gfazioli.github.io/mantine-marquee/) - _A Mantine component that allows you to create a marquee effect with a list of elements_
+> - [Mantine Reflection](https://gfazioli.github.io/mantine-reflection/) - _A Mantine component that adds a reflection effect to its children_
+> - [Mantine Rings Progress](https://gfazioli.github.io/mantine-rings-progress/) - _A Mantine component that replicates the progress rings of Apple Watch_
+>
+> #### WordPress Plugins
+>
 > - [Scotty](https://wordpress.org/plugins/scotty/) - _The ultimate solution for controlling, cleaning, repairing, and managing advanced settings in WordPress_
 > - [Bannerize](https://bannerize.vercel.app/) - _Is a WordPress plugin that allows you to create and manage advertising banners easily and quickly_
+>
+> #### Raycast Extensions
+>
+> - [WP Bones](https://www.raycast.com/Undolog/wp-bones) - _Search Docs, Menu Bar Sync Version, Starter Boilerplate_
+> - [Sync Folders](https://www.raycast.com/Undolog/sync-folders) - _Sync two folders, manage presets, Menu bar launch_
+> - [Open Folders](https://www.raycast.com/timothy_boye/open-folders) - _Open your common files and folders quickly!_
+
 
 
 ---
