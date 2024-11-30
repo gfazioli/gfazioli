@@ -31,7 +31,7 @@
 >
 > #### Mantine UI Components
 >
-> - [Mantine Parallax](https://gfazioli.github.io/mantine-parallax/] - _A Mantine component that replicates the Apple TV Card effect and adds parallax effects._
+> - [Mantine Parallax](https://gfazioli.github.io/mantine-parallax/) - _A Mantine component that replicates the Apple TV Card effect and adds parallax effects._
 > - [Mantine Flip](https://gfazioli.github.io/mantine-flip/) - _A Mantine component that flips the content of the component when hovered over._
 > - [Mantine Split Pane](https://gfazioli.github.io/mantine-split-pane/) - _A Mantine component that manages split panes allows users to divide and resize content areas within a layout efficiently_
 > - [Mantine Marquee](https://gfazioli.github.io/mantine-marquee/) - _A Mantine component that allows you to create a marquee effect with a list of elements_
