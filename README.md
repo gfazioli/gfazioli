@@ -48,8 +48,7 @@
 > - [WP Bones](https://www.raycast.com/Undolog/wp-bones) - _Search Docs, Menu Bar Sync Version, Starter Boilerplate_
 > - [Sync Folders](https://www.raycast.com/Undolog/sync-folders) - _Sync two folders, manage presets, Menu bar launch_
 > - [Open Folders](https://www.raycast.com/timothy_boye/open-folders) - _Open your common files and folders quickly!_
-
-
+> - [Text Shortcuts](https://www.raycast.com/koinzhang/text-shortcuts) - _Use Text Shortcuts to handle text from the selection or clipboard_
 
 ---
 
