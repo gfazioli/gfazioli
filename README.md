@@ -15,9 +15,9 @@
 </div>
 
 > [!NOTE]
-> I began developing in 1983, which were amazing years! Initially, I worked on design and graphic applications using the Commodore Vic-20, Commodore 64, Commodore 128, Amiga 1000, 500, and 2000. I loved developing in Assembly, specifically with the Z-80, 6510, 6520, 8086, 80×86, and Motorola 680xx series.<br/><br/>
-> I then worked as a program developer for a telecommunications company, using C/C++ (Digital Unix and Sun OS), PHP, Microsoft Visual Basic, Microsoft Visual C++, and Macromedia ActionScript. After about 7 years, I became a freelancer and decided to work independently.<br/><br/>
-> So I started my own company and served as the CTO.
+> I started developing in 1983, which was an amazing time! At first, I worked on design and graphic applications using the Commodore Vic-20, Commodore 64, Commodore 128, and Amiga 1000, 500, and 2000. I loved programming in Assembly, particularly with the Z-80, 6510, 6520, 8086, 80×86, and Motorola 680xx series.<br/><br/>
+> Later, I worked as a program developer for a telecommunications company, using C/C++ (Digital Unix and Sun OS), PHP, Microsoft Visual Basic, Microsoft Visual C++, and Macromedia ActionScript. After about seven years, I became a freelancer and decided to work independently.<br/><br/>
+> Eventually, I started my own company and served as the CTO.
 
 > [!TIP]
 > I am the Lead Developer on the Cloud team at [Namecheap](https://namecheap.com). I enjoy working with ReactJS, TypeScript, and NextJS.
