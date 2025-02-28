@@ -35,6 +35,7 @@
 > - [Mantine Flip](https://gfazioli.github.io/mantine-flip/) - _A Mantine component that flips the content of the component when hovered over._
 > - [Mantine Split Pane](https://gfazioli.github.io/mantine-split-pane/) - _A Mantine component that manages split panes allows users to divide and resize content areas within a layout efficiently_
 > - [Mantine Marquee](https://gfazioli.github.io/mantine-marquee/) - _A Mantine component that allows you to create a marquee effect with a list of elements_
+> - [Mantine Onboarding Tour](https://gfazioli.github.io/mantine-onboarding-tour/) - _A Mantine component enables you to create a onboarding-tour effect using overlays, popovers, and onboarding tours, which enhances element visibility and interactivity_
 > - [Mantine Reflection](https://gfazioli.github.io/mantine-reflection/) - _A Mantine component that adds a reflection effect to its children_
 > - [Mantine Spinner](https://github.com/gfazioli/mantine-spinner) - _A Mantine React component for an enhanced loading state_
 > - [Mantine Rings Progress](https://gfazioli.github.io/mantine-rings-progress/) - _A Mantine component that replicates the progress rings of Apple Watch_
