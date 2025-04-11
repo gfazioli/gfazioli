@@ -35,6 +35,7 @@
 > - [Mantine Marquee](https://gfazioli.github.io/mantine-marquee/) - _A Mantine component that allows you to create a marquee effect with a list of elements_
 > - [Mantine Onboarding Tour](https://gfazioli.github.io/mantine-onboarding-tour/) - _A Mantine component enables you to create a onboarding-tour effect using overlays, popovers, and onboarding tours, which enhances element visibility and interactivity_
 > - [Mantine Parallax](https://gfazioli.github.io/mantine-parallax/) - _A Mantine component that replicates the Apple TV Card effect and adds parallax effects._
+> - [Mantine Picker](https://gfazioli.github.io/mantine-picker/) - _A Mantine component that allows you to create a picker effect with a list of elements._
 > - [Mantine Reflection](https://gfazioli.github.io/mantine-reflection/) - _A Mantine component that adds a reflection effect to its children_
 > - [Mantine Rings Progress](https://gfazioli.github.io/mantine-rings-progress/) - _A Mantine component that replicates the progress rings of Apple Watch_
 > - [Mantine Spinner](https://github.com/gfazioli/mantine-spinner) - _A Mantine React component for an enhanced loading state_
