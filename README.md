@@ -32,6 +32,7 @@
 > #### Mantine UI Components
 >
 > - [Mantine Flip](https://gfazioli.github.io/mantine-flip/) - _A Mantine component that flips the content of the component when hovered over._
+> - [Mantine List View Table](https://gfazioli.github.io/mantine-list-view-table/) - _A Mantine component adds a Finder-style List View to the Mantine Table, allowing for column reordering and resizing._
 > - [Mantine Marquee](https://gfazioli.github.io/mantine-marquee/) - _A Mantine component that allows you to create a marquee effect with a list of elements_
 > - [Mantine Onboarding Tour](https://gfazioli.github.io/mantine-onboarding-tour/) - _A Mantine component enables you to create a onboarding-tour effect using overlays, popovers, and onboarding tours, which enhances element visibility and interactivity_
 > - [Mantine Parallax](https://gfazioli.github.io/mantine-parallax/) - _A Mantine component that replicates the Apple TV Card effect and adds parallax effects._
