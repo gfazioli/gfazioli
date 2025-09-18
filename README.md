@@ -88,26 +88,21 @@
 </div>
 
 <div align="center">
-    <a href="https://github.com/gfazioli">
-        <img height="320" src="https://github-profile-trophy.vercel.app/?username=gfazioli&theme=onedark&margin-w=3&margin-h=3&no-frame=true&row=2&column=3">
-    </a> 
-    <a href="https://github.com/gfazioli">
-        <img height="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfazioli&theme=great-gatsby&hide_border=true">
-    </a>
+
+![gfazioli's Stats](https://github-readme-stats.vercel.app/api?username=gfazioli&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true)
+![gfazioli's Stats](https://nirzak-streak-stats.vercel.app/?user=gfazioli&theme=great-gatsby&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gfazioli&theme=great-gatsby&hide_border=true)
+![](https://github-contributor-stats.vercel.app/api?username=gfazioli&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true&hide_border=true)
+
 </div>
 
 
-
-<div align="center">
-    <a href="https://github.com/gfazioli">
-        <img height="166" src="https://github-readme-stats.vercel.app/api?username=gfazioli&show_icons=true&theme=great-gatsby&hide_border=true">
-    </a> 
-    <a href="https://github.com/gfazioli">
-        <img height="166" src="http://github-readme-streak-stats.herokuapp.com/?user=gfazioli&theme=great-gatsby&hide_border=true">
-    </a>
-</div>
-  
-<div align="center">
+  <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gfazioli&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
