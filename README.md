@@ -14,6 +14,14 @@
 <img src="https://github.com/user-attachments/assets/25b93dfd-c058-4489-a792-5f253caaae60"/>
 </div>
 
+## ❤️ Sponsors
+
+<a href="https://github.com/kastov">
+  <img src="https://avatars.githubusercontent.com/u/9641779?v=4" width="56" height="56" alt="kastov" />
+</a>
+
+---
+
 > [!NOTE]
 > I started developing in 1983, which was an amazing time! At first, I worked on design and graphic applications using the Commodore Vic-20, Commodore 64, Commodore 128, and Amiga 1000, 500, and 2000. I loved programming in Assembly, particularly with the Z-80, 6510, 6520, 8086, 80×86, and Motorola 680xx series.<br/><br/>
 > Later, I worked as a program developer for a telecommunications company, using C/C++ (Digital Unix and Sun OS), PHP, Microsoft Visual Basic, Microsoft Visual C++, and Macromedia ActionScript. After about seven years, I became a freelancer and decided to work independently.<br/><br/>
