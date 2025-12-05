@@ -39,6 +39,7 @@
 >
 > #### Mantine UI Components
 >
+> - [Mantine Border Animate](https://gfazioli.github.io/mantine-border-animate/) - _Mantine component for animated border effects with four variants (beam, glow, gradient, pulse), customizable colors, and full animation control. Ideal for creating eye-catching, dynamically styled UI elements with smooth CSS animations._
 > - [Mantine Clock](https://gfazioli.github.io/mantine-clock/) - _React Clock components and hooks for Mantine with timezone support, countdown timers, customization options, and real-time updates._
 > - [Mantine Flip](https://gfazioli.github.io/mantine-flip/) - _A Mantine component that flips the content of the component when hovered over._
 > - [Mantine Json Tree](https://gfazioli.github.io/mantine-json-tree/) - _A Mantine extension component that renders interactive JSON trees with syntax highlighting, collapsible nodes, copy-to-clipboard, and configurable expansion depth._
