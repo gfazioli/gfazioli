@@ -100,20 +100,21 @@
 
 <div align="center">
 
-![gfazioli's Stats](https://github-readme-stats.vercel.app/api?username=gfazioli&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true)
+![stats](https://gh-readme-profile.vercel.app/api?username=gfazioli&theme=ayu&border_radius=8)
+
+<!-- ![gfazioli's Stats](https://github-readme-stats.vercel.app/api?username=gfazioli&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true) -->
 ![gfazioli's Stats](https://nirzak-streak-stats.vercel.app/?user=gfazioli&theme=great-gatsby&hide_border=true)
 
 </div>
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gfazioli&theme=great-gatsby&hide_border=true)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gfazioli&theme=great-gatsby&hide_border=true) -->
 ![](https://github-contributor-stats.vercel.app/api?username=gfazioli&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true&hide_border=true)
 
 </div>
 
-
-  <div align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gfazioli&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
