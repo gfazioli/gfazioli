@@ -46,6 +46,7 @@
 > - [Mantine Json Tree](https://gfazioli.github.io/mantine-json-tree/) - _A Mantine extension component that renders interactive JSON trees with syntax highlighting, collapsible nodes, copy-to-clipboard, and configurable expansion depth._
 > - [Mantine List View Table](https://gfazioli.github.io/mantine-list-view-table/) - _A Mantine component adds a Finder-style List View to the Mantine Table, allowing for column reordering and resizing._
 > - [Mantine Marquee](https://gfazioli.github.io/mantine-marquee/) - _A Mantine component that allows you to create a marquee effect with a list of elements_
+> - [Mantine Mask](https://gfazioli.github.io/mantine-mask/) - _A Mantine component that applies a cursor‑follow or static spotlight using CSS masks, revealing content inside the spotlight and softly fading the outside._
 > - [Mantine Onboarding Tour](https://gfazioli.github.io/mantine-onboarding-tour/) - _A Mantine component enables you to create a onboarding-tour effect using overlays, popovers, and onboarding tours, which enhances element visibility and interactivity_
 > - [Mantine Parallax](https://gfazioli.github.io/mantine-parallax/) - _A Mantine component that replicates the Apple TV Card effect and adds parallax effects._
 > - [Mantine Picker](https://gfazioli.github.io/mantine-picker/) - _A Mantine component that allows you to create a picker effect with a list of elements._
