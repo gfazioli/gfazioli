@@ -57,6 +57,10 @@
 > - [Mantine Text Animate](https://gfazioli.github.io/mantine-text-animate/) - _A Mantine component that allows you to animate text with various effects_
 > - [Mantine Window](https://gfazioli.github.io/mantine-window/) - _A Mantine extension component that renders draggable, resizable floating windows with persistent state, customizable boundaries, collapsible content, and flexible control over position, size, and interaction modes_
 >
+> ### Templates
+> - [Vercel MantineUI + Nextra](https://vercel.com/templates/documentation/mantine-ui-nextra) - _Get started with beautiful documentation on the Next.js App Router, Nextra, and MantineUI_
+> - [Mantine NextJS App Router + Nextra Template](https://next-app-nextra-template.vercel.app/) - _This starter Next.js project includes a minimal setup for server side rendering, if you want to learn more on Mantine + Next.js_
+>
 > #### WordPress Plugins
 >
 > - [Bannerize](https://bannerize.vercel.app/) - _Is a WordPress plugin that allows you to create and manage advertising banners easily and quickly_
