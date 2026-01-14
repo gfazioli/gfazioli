@@ -44,6 +44,7 @@
 > - [Mantine Compare](https://gfazioli.github.io/mantine-compare/) - _Mantine Compare is a responsive, accessible React container for side‑by‑side content, letting users reveal differences with a draggable, hover, or fixed split and support for vertical, horizontal, or diagonal dividers._
 > - [Mantine Flip](https://gfazioli.github.io/mantine-flip/) - _A Mantine component that flips the content of the component when hovered over._
 > - [Mantine Json Tree](https://gfazioli.github.io/mantine-json-tree/) - _A Mantine extension component that renders interactive JSON trees with syntax highlighting, collapsible nodes, copy-to-clipboard, and configurable expansion depth._
+> - [Mantine Led](https://gfazioli.github.io/mantine-led/) - _A highly customizable LED indicator component for React applications built with Mantine. Provides visual feedback for status indicators with support for colors, sizes, animations, and controlled states_
 > - [Mantine List View Table](https://gfazioli.github.io/mantine-list-view-table/) - _A Mantine component adds a Finder-style List View to the Mantine Table, allowing for column reordering and resizing._
 > - [Mantine Marquee](https://gfazioli.github.io/mantine-marquee/) - _A Mantine component that allows you to create a marquee effect with a list of elements_
 > - [Mantine Mask](https://gfazioli.github.io/mantine-mask/) - _A Mantine component that applies a cursor‑follow or static spotlight using CSS masks, revealing content inside the spotlight and softly fading the outside._
