@@ -53,6 +53,7 @@
 > - [Mantine Picker](https://gfazioli.github.io/mantine-picker/) - _A Mantine component that allows you to create a picker effect with a list of elements._
 > - [Mantine Reflection](https://gfazioli.github.io/mantine-reflection/) - _A Mantine component that adds a reflection effect to its children_
 > - [Mantine Rings Progress](https://gfazioli.github.io/mantine-rings-progress/) - _A Mantine component that replicates the progress rings of Apple Watch_
+> - [Mantine Select Stepper](https://gfazioli.github.io/mantine-select-stepper) - _Allows users to navigate through a list of options using increment and decrement buttons, providing an intuitive alternative to traditional dropdown selects for cycling through predefined values_
 > - [Mantine Spinner](https://github.com/gfazioli/mantine-spinner) - _A Mantine React component for an enhanced loading state_
 > - [Mantine Split Pane](https://gfazioli.github.io/mantine-split-pane/) - _A Mantine component that manages split panes allows users to divide and resize content areas within a layout efficiently_
 > - [Mantine Text Animate](https://gfazioli.github.io/mantine-text-animate/) - _A Mantine component that allows you to animate text with various effects_
