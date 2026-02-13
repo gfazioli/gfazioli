@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<h4>Hi, my name is Giovambattista (John) Fazioli<br/> an Italian Lead Developer passionate about creative problem‑solving and turning ideas into reality</h4>
+<h4>Hi, I'm Giovambattista (John) Fazioli<br/> an Italian Lead Developer passionate about creative problem‑solving and turning ideas into reality</h4>
 </div>
 
 <div align="center">
