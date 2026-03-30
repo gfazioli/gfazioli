@@ -36,6 +36,7 @@
 >
 > - [WP Bones](https://wpbones.com) - _A lightweight framework that offers tools and guidelines to simplify WordPress plugin development_
 > - [Mantine Extension](https://mantine-extensions.vercel.app) - _Mantine UI awesome components extensions_
+> - [Amiga Assembly Library](https://amiga-assembly-library.vercel.app/) _A shared library for Commodore Amiga written in Motorola 68020 assembly language. Provides 50+ functions for graphics, file I/O, memory management, UI, and more. Compatible with KickStart 3.0+._
 >
 > #### Mantine UI Components
 >
