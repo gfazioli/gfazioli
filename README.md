@@ -114,7 +114,10 @@
 
 ![stats](https://gh-readme-profile.vercel.app/api?username=gfazioli&theme=ayu&border_radius=8)
 
-[![My GitCity Skyline](https://gitcity.natrajx.in/api/svg?u=gfazioli)](https://gitcity.natrajx.in/gfazioli)
+<a href="https://gitcity.natrajx.in/gfazioli">
+  <img src="https://gitcity.natrajx.in/api/svg?u=gfazioli&theme=aurora"
+       alt="My GitHub Skyline" width="100%" />
+</a>
 
 <!-- ![gfazioli's Stats](https://github-readme-stats.vercel.app/api?username=gfazioli&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true) -->
 ![gfazioli's Stats](https://nirzak-streak-stats.vercel.app/?user=gfazioli&theme=great-gatsby&hide_border=true)
