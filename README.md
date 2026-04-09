@@ -35,8 +35,8 @@
 > <h3>⭐ Projects</h3>
 >
 > - [WP Bones](https://wpbones.com) - _A lightweight framework that offers tools and guidelines to simplify WordPress plugin development_
-> - [Mantine Extension](https://mantine-extensions.vercel.app) - _Mantine UI awesome components extensions_
-> - [Amiga Assembly Library](https://amiga-assembly-library.vercel.app/) _A shared library for Commodore Amiga written in Motorola 68020 assembly language. Provides 50+ functions for graphics, file I/O, memory management, UI, and more. Compatible with KickStart 3.0+._
+> - [Mantine Extensions](https://mantine-extensions.vercel.app) - _Mantine UI awesome components extensions_
+> - [Amiga Assembly Library](https://amiga-assembly-library.vercel.app/) - _A shared library for Commodore Amiga written in Motorola 68020 assembly language. Provides 50+ functions for graphics, file I/O, memory management, UI, and more. Compatible with KickStart 3.0+._
 >
 > #### Mantine UI Components
 >
@@ -47,6 +47,7 @@
 > - [Mantine Flip](https://gfazioli.github.io/mantine-flip/) - _A Mantine component that flips the content of the component when hovered over._
 > - [Mantine Json Tree](https://gfazioli.github.io/mantine-json-tree/) - _A Mantine extension component that renders interactive JSON trees with syntax highlighting, collapsible nodes, copy-to-clipboard, and configurable expansion depth._
 > - [Mantine Led](https://gfazioli.github.io/mantine-led/) - _A highly customizable LED indicator component for React applications built with Mantine. Provides visual feedback for status indicators with support for colors, sizes, animations, and controlled states_
+> - [Mantine Lens Select](https://gfazioli.github.io/mantine-lens-select/) - _A fisheye/lens magnification select component for React built with Mantine. Supports count mode, min/max/step range, macOS Dock-like magnification, and compound components._
 > - [Mantine List View Table](https://gfazioli.github.io/mantine-list-view-table/) - _A Mantine component adds a Finder-style List View to the Mantine Table, allowing for column reordering and resizing._
 > - [Mantine Marquee](https://gfazioli.github.io/mantine-marquee/) - _A Mantine component that allows you to create a marquee effect with a list of elements_
 > - [Mantine Mask](https://gfazioli.github.io/mantine-mask/) - _A Mantine component that applies a cursor‑follow or static spotlight using CSS masks, revealing content inside the spotlight and softly fading the outside._
@@ -58,7 +59,7 @@
 > - [Mantine Rings Progress](https://gfazioli.github.io/mantine-rings-progress/) - _A Mantine component that replicates the progress rings of Apple Watch_
 > - [Mantine Select Stepper](https://gfazioli.github.io/mantine-select-stepper) - _Allows users to navigate through a list of options using increment and decrement buttons, providing an intuitive alternative to traditional dropdown selects for cycling through predefined values_
 > - [Mantine Scene](https://gfazioli.github.io/mantine-scene/) - _A composable decorative background system for Mantine with gradients, particles, noise, and interactive effects._
-> - [Mantine Spinner](https://github.com/gfazioli/mantine-spinner) - _A Mantine React component for an enhanced loading state_
+> - [Mantine Spinner](https://gfazioli.github.io/mantine-spinner/) - _A Mantine React component for an enhanced loading state_
 > - [Mantine Split Pane](https://gfazioli.github.io/mantine-split-pane/) - _A Mantine component that manages split panes allows users to divide and resize content areas within a layout efficiently_
 > - [Mantine Text Animate](https://gfazioli.github.io/mantine-text-animate/) - _A Mantine component that allows you to animate text with various effects_
 > - [Mantine Window](https://gfazioli.github.io/mantine-window/) - _A Mantine extension component that renders draggable, resizable floating windows with persistent state, customizable boundaries, collapsible content, and flexible control over position, size, and interaction modes_
@@ -84,7 +85,7 @@
 > [!TIP]
 > <h3>⭐ Tech Links</h3>
 >
-> - [Undolog.com](https://undolog.com) - _Pensonal Research & Development Blog_
+> - [Undolog.com](https://undolog.com) - _Personal Research & Development Blog_
 > - [PensieriSottili.com](https://pensierisottili.com) - _Personal Blog_
 > - [Medium](https://medium.com/@giovambattista.fazioli) - _Medium articles_
 > - [CodeSandbox](https://codesandbox.io/u/gfazioli) - _Code Sandbox fanny stuff_
