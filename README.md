@@ -75,11 +75,11 @@
 >
 > #### Raycast Extensions
 >
-> - [WP Bones](https://www.raycast.com/Undolog/wp-bones) - _Search Docs, Ask AI, Release Notes, Menu Bar Sync Version, Starter Boilerplate_
-> - [Sync Folders](https://www.raycast.com/Undolog/sync-folders) - _Sync two folders with rsync, manage presets, Dry Run preview, AI Advice, Sync History, Menu bar launch_
-> - [Window Layouts](https://www.raycast.com/teemu_suvinen/window-layouts) - _Tile open windows into predefined or custom layouts, Save & Restore, Auto Layout, Pick Layout_
 > - [Open Folders](https://www.raycast.com/timothy_boye/open-folders) - _Open your common files and folders quickly!_
+> - [Sync Folders](https://www.raycast.com/Undolog/sync-folders) - _Sync two folders with rsync, manage presets, Dry Run preview, AI Advice, Sync History, Menu bar launch_
 > - [Text Shortcuts](https://www.raycast.com/koinzhang/text-shortcuts) - _Use Text Shortcuts to handle text from the selection or clipboard_
+> - [Window Layouts](https://www.raycast.com/teemu_suvinen/window-layouts) - _Tile open windows into predefined or custom layouts, Save & Restore, Auto Layout, Pick Layout_
+> - [WP Bones](https://www.raycast.com/Undolog/wp-bones) - _Search Docs, Ask AI, Release Notes, Menu Bar Sync Version, Starter Boilerplate_
 
 ---
 
