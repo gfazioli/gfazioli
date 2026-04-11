@@ -70,8 +70,8 @@
 >
 > #### WordPress Plugins
 >
-> - [Bannerize](https://bannerize.vercel.app/) - _Is a WordPress plugin that allows you to create and manage advertising banners easily and quickly_
-> - [Scotty](https://wordpress.org/plugins/scotty/) - _The ultimate solution for controlling, cleaning, repairing, and managing advanced settings in WordPress_
+> - [Bannerize](https://bannerize.vercel.app/) - _WordPress banner management with built-in impressions, clicks, and CTR analytics. Create image, HTML, or WebP banners, organize them into campaigns, and track performance with trend charts and CSV export. Built with WPBones and Mantine UI._
+> - [Scotty](https://scotty-plugin.vercel.app/) - _WordPress site maintenance and optimization with a modern React/Mantine dashboard. Clean your database, manage cron jobs, control 22+ hidden WordPress settings, and monitor site health — all from a single interface. Built with WPBones._
 >
 > #### Raycast Extensions
 >
