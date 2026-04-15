@@ -38,6 +38,10 @@
 > - [Mantine Extensions](https://mantine-extensions.vercel.app) - _Mantine UI awesome components extensions_
 > - [Amiga Assembly Library](https://amiga-assembly-library.vercel.app/) - _A shared library for Commodore Amiga written in Motorola 68020 assembly language. Provides 50+ functions for graphics, file I/O, memory management, UI, and more. Compatible with KickStart 3.0+._
 >
+> #### MacOS
+> 
+> - [FinderGit](https://findergit.app) - _A native macOS Git-aware file browser. Sortable columns for branch, status, changes and diffs across all your repositories at a glance, with an inline diff viewer, Git actions from the UI, native Markdown preview via Quick Look, and auto-updates via Sparkle. Built with SwiftUI._
+> 
 > #### Mantine UI Components
 >
 > - [Mantine Border Animate](https://gfazioli.github.io/mantine-border-animate/) - _Mantine component for animated border effects with four variants (beam, glow, gradient, pulse), customizable colors, and full animation control. Ideal for creating eye-catching, dynamically styled UI elements with smooth CSS animations._
