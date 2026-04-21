@@ -38,7 +38,7 @@
 > - [Mantine Extensions](https://mantine-extensions.vercel.app) - _Mantine UI awesome components extensions_
 > - [Amiga Assembly Library](https://amiga-assembly-library.vercel.app/) - _A shared library for Commodore Amiga written in Motorola 68020 assembly language. Provides 50+ functions for graphics, file I/O, memory management, UI, and more. Compatible with KickStart 3.0+._
 >
-> #### MacOS
+> ####  MacOS
 > 
 > - [FinderGit](https://findergit.app) - _A native macOS Git-aware file browser. Sortable columns for branch, status, changes and diffs across all your repositories at a glance, with an inline diff viewer, Git actions from the UI, native Markdown preview via Quick Look, and auto-updates via Sparkle. Built with SwiftUI._
 > 
