@@ -44,7 +44,7 @@
 > 
 > #### CLI / Terminal
 >
-> - [octoscope](https://github.com/gfazioli/octoscope) - _A cross-platform terminal dashboard for GitHub. Profile, social, activity, repo health and languages breakdown at a glance, auto-refreshed every 60 seconds, with native notifications when stars or followers change. Works on your own account or any public profile. Single binary via Homebrew, `go install`, or as a `gh` extension. Built with Go and BubbleTea._
+> - [octoscope](https://gfazioli.github.io/octoscope/) - _A cross-platform terminal dashboard for GitHub. Profile, social, activity, repo health and languages breakdown at a glance, auto-refreshed every 60 seconds, with native notifications when stars or followers change. Works on your own account or any public profile. Single binary via Homebrew, `go install`, or as a `gh` extension. Built with Go and BubbleTea._
 > 
 > #### Mantine UI Components
 >
