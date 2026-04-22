@@ -42,6 +42,10 @@
 > 
 > - [FinderGit](https://findergit.app) - _A native macOS Git-aware file browser. Sortable columns for branch, status, changes and diffs across all your repositories at a glance, with an inline diff viewer, Git actions from the UI, native Markdown preview via Quick Look, and auto-updates via Sparkle. Built with SwiftUI._
 > 
+> #### CLI / Terminal
+>
+> - [octoscope](https://github.com/gfazioli/octoscope) - _A cross-platform terminal dashboard for GitHub. Profile, social, activity, repo health and languages breakdown at a glance, auto-refreshed every 60 seconds, with native notifications when stars or followers change. Works on your own account or any public profile. Single binary via Homebrew, `go install`, or as a `gh` extension. Built with Go and BubbleTea._
+> 
 > #### Mantine UI Components
 >
 > - [Mantine Border Animate](https://gfazioli.github.io/mantine-border-animate/) - _Mantine component for animated border effects with four variants (beam, glow, gradient, pulse), customizable colors, and full animation control. Ideal for creating eye-catching, dynamically styled UI elements with smooth CSS animations._
