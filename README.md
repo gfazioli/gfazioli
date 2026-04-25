@@ -9,6 +9,7 @@
 <div align="center">
 <h4>Hi, I'm Giovambattista (John) Fazioli<br/>
 Building developer tools, UI components, and macOS apps — from Assembly on Commodore to SwiftUI and Go</h4>
+    <h1>↓</h1>
 </div>
 
 <div align="center">
@@ -98,12 +99,16 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 > [!TIP]
 > <h3>⭐ Tech Links</h3>
 >
-> - [Undolog.com](https://undolog.com) - _Personal Research & Development Blog_
-> - [PensieriSottili.com](https://pensierisottili.com) - _Personal Blog_
-> - [Medium](https://medium.com/@giovambattista.fazioli) - _Medium articles_
-> - [CodeSandbox](https://codesandbox.io/u/gfazioli) - _Code Sandbox funny stuff_
-> - [NPM](https://www.npmjs.com/~gfazioli) - _NPM Packages_
-> - [Composer](https://packagist.org/users/gfazioli/packages/) - _Composer Packages_
+> - [Undolog.com](https://undolog.com) - _R&D blog — deep dives on React, TypeScript, WordPress, and Go_
+> - [Dev.to](https://dev.to/undolog) - _Tutorials and release notes_
+> - [Medium](https://medium.com/@giovambattista.fazioli) - _Long-form articles_
+> - [NPM](https://www.npmjs.com/~gfazioli) - _Published npm packages_
+> - [Composer](https://packagist.org/users/gfazioli/packages/) - _PHP packages on Packagist_
+
+> [!NOTE]
+> <h3>🙋 Persona Blog</h3>
+>
+> - [PensieriSottili.com](https://pensierisottili.com) - _Pensieri, idee e riflessioni — il mio blog personale in italiano_
 >
 
 <hr/>
