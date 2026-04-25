@@ -29,7 +29,7 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 > Eventually, I started my own company and served as the CTO.
 
 > [!TIP]
-> I am the Lead Developer on the Cloud team at [Namecheap](https://namecheap.com). I enjoy working with ReactJS, TypeScript, and NextJS, Go, and SwiftUI..
+> I am the Lead Developer on the Cloud team at [Namecheap](https://namecheap.com). I enjoy working with ReactJS, TypeScript, and NextJS, Go, and SwiftUI.
 
 ---
 > [!IMPORTANT]
@@ -111,6 +111,7 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 <div align="center">
 
 [![X](https://img.shields.io/badge/Twitter-%231877F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gfazioli) &nbsp;
+[![Bluesky](https://img.shields.io/badge/Bluesky-%231877F2.svg?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/gfazioli.bsky.social) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%231877F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://it.linkedin.com/in/giovambattistafazioli) &nbsp;
 [![Medium](https://img.shields.io/badge/medium-%231877F2.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@giovambattista.fazioli) &nbsp;
 [![Slack](https://img.shields.io/badge/Slack-%231877F2.svg?style=for-the-badge&logo=Slack&logoColor=white)](https://undolog.slack.com) &nbsp;
