@@ -7,7 +7,8 @@
 
 
 <div align="center">
-<h4>Hi, I'm Giovambattista (John) Fazioli<br/> an Italian Lead Developer passionate about creative problem‑solving and turning ideas into reality</h4>
+<h4>Hi, I'm Giovambattista (John) Fazioli<br/>
+Building developer tools, UI components, and macOS apps — from Assembly on Commodore to SwiftUI and Go</h4>
 </div>
 
 <div align="center">
@@ -28,7 +29,7 @@
 > Eventually, I started my own company and served as the CTO.
 
 > [!TIP]
-> I am the Lead Developer on the Cloud team at [Namecheap](https://namecheap.com). I enjoy working with ReactJS, TypeScript, and NextJS.
+> I am the Lead Developer on the Cloud team at [Namecheap](https://namecheap.com). I enjoy working with ReactJS, TypeScript, and NextJS, Go, and SwiftUI..
 
 ---
 > [!IMPORTANT]
@@ -81,14 +82,16 @@
 > - [Bannerize](https://bannerize.vercel.app/) - _WordPress banner management with built-in impressions, clicks, and CTR analytics. Create image, HTML, or WebP banners, organize them into campaigns, and track performance with trend charts and CSV export. Built with WPBones and Mantine UI._
 > - [Scotty](https://scotty-plugin.vercel.app/) - _WordPress site maintenance and optimization with a modern React/Mantine dashboard. Clean your database, manage cron jobs, control 22+ hidden WordPress settings, and monitor site health — all from a single interface. Built with WPBones._
 >
-> #### Raycast Extensions
+> 
+> #### Raycast Extensions I maintain or contribute to
 >
+> - [Sync Folders](https://www.raycast.com/Undolog/sync-folders) - _Sync two folders with rsync, manage presets, Dry Run preview, AI Advice, Sync History, Menu bar launch_
+> - [WP Bones](https://www.raycast.com/Undolog/wp-bones) - _Search Docs, Ask AI, Release Notes, Menu Bar Sync Version, Starter Boilerplate_
 > - [GitHub](https://www.raycast.com/raycast/github) - _My GitHub Stats Menu Bar, view followers, stars, PRs, issues and commits at a glance_
 > - [Open Folders](https://www.raycast.com/timothy_boye/open-folders) - _Open your common files and folders quickly!_
-> - [Sync Folders](https://www.raycast.com/Undolog/sync-folders) - _Sync two folders with rsync, manage presets, Dry Run preview, AI Advice, Sync History, Menu bar launch_
 > - [Text Shortcuts](https://www.raycast.com/koinzhang/text-shortcuts) - _Use Text Shortcuts to handle text from the selection or clipboard_
 > - [Window Layouts](https://www.raycast.com/teemu_suvinen/window-layouts) - _Tile open windows into predefined or custom layouts, Save & Restore, Auto Layout, Pick Layout_
-> - [WP Bones](https://www.raycast.com/Undolog/wp-bones) - _Search Docs, Ask AI, Release Notes, Menu Bar Sync Version, Starter Boilerplate_
+
 
 ---
 
@@ -98,7 +101,7 @@
 > - [Undolog.com](https://undolog.com) - _Personal Research & Development Blog_
 > - [PensieriSottili.com](https://pensierisottili.com) - _Personal Blog_
 > - [Medium](https://medium.com/@giovambattista.fazioli) - _Medium articles_
-> - [CodeSandbox](https://codesandbox.io/u/gfazioli) - _Code Sandbox fanny stuff_
+> - [CodeSandbox](https://codesandbox.io/u/gfazioli) - _Code Sandbox funny stuff_
 > - [NPM](https://www.npmjs.com/~gfazioli) - _NPM Packages_
 > - [Composer](https://packagist.org/users/gfazioli/packages/) - _Composer Packages_
 >
@@ -107,7 +110,7 @@
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/gfazioli) &nbsp;
+[![X](https://img.shields.io/badge/Twitter-%231877F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gfazioli) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%231877F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://it.linkedin.com/in/giovambattistafazioli) &nbsp;
 [![Medium](https://img.shields.io/badge/medium-%231877F2.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@giovambattista.fazioli) &nbsp;
 [![Slack](https://img.shields.io/badge/Slack-%231877F2.svg?style=for-the-badge&logo=Slack&logoColor=white)](https://undolog.slack.com) &nbsp;
