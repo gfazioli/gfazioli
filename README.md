@@ -77,6 +77,7 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 > #### React Components
 >
 > - [react-toggle-component](https://gfazioli.github.io/react-toggle/) - _Accessible, themeable React toggle/switch with `role="switch"`, ARIA, and CSS-variable theming. Zero runtime dependencies, ~3 KB gzipped, dual ESM+CJS, TypeScript-first. Live theme builder with shareable URLs and ready-made presets (iOS, Material, Pill, Neon)._
+> - [react-amiga-guru-meditation](https://gfazioli.github.io/react-amiga-guru-meditation/) - _A React Error Boundary styled like the Amiga Guru Meditation. Same contract as `react-error-boundary` (`fallback` / `fallbackRender` / `onError` / `resetKeys`), plus a `useAmigaGuru()` hook for triggering errors from function components. ARIA-compliant (`role="alert"`), themeable via CSS variables, zero deps, ~2 KB gzipped. Inline by default; opt into the iconic full-bleed Amiga takeover with a single prop._
 >
 > #### Templates
 > - [Vercel MantineUI + Nextra](https://vercel.com/templates/documentation/mantine-ui-nextra) - _Get started with beautiful documentation on the Next.js App Router, Nextra, and MantineUI_
