@@ -74,6 +74,10 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 > - [Mantine Text Animate](https://gfazioli.github.io/mantine-text-animate/) - _A Mantine component that allows you to animate text with various effects_
 > - [Mantine Window](https://gfazioli.github.io/mantine-window/) - _A Mantine extension component that renders draggable, resizable floating windows with persistent state, customizable boundaries, collapsible content, and flexible control over position, size, and interaction modes_
 >
+> #### React Components
+>
+> - [react-toggle-component](https://gfazioli.github.io/react-toggle/) - _Accessible, themeable React toggle/switch with `role="switch"`, ARIA, and CSS-variable theming. Zero runtime dependencies, ~3 KB gzipped, dual ESM+CJS, TypeScript-first. Live theme builder with shareable URLs and ready-made presets (iOS, Material, Pill, Neon)._
+>
 > #### Templates
 > - [Vercel MantineUI + Nextra](https://vercel.com/templates/documentation/mantine-ui-nextra) - _Get started with beautiful documentation on the Next.js App Router, Nextra, and MantineUI_
 > - [Mantine NextJS App Router + Nextra Template](https://next-app-nextra-template.vercel.app/) - _This starter Next.js project includes a minimal setup for server side rendering, if you want to learn more on Mantine + Next.js_
