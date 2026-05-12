@@ -96,6 +96,7 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 > - [WP Bones](https://www.raycast.com/Undolog/wp-bones) - _Search Docs, Ask AI, Release Notes, Menu Bar Sync Version, Starter Boilerplate_
 > - [macOS Tweaks](https://www.raycast.com/Undolog/macos-tweaks) - _Toggle hidden macOS settings without the Terminal — a curated catalog of `defaults write` tweaks for Finder, Dock, Screenshots, Animations, and more, with a menu bar to track what's modified_
 > - [App Updates](https://www.raycast.com/Undolog/app-updates) - _Check for macOS app updates from Sparkle, Homebrew Cask and Mac App Store, with brew doctor advice_
+> - [Dev Cache Cleaner](https://www.raycast.com/Undolog/dev-cache-cleaner) - _Scan and clean developer caches, build artifacts and orphaned dependencies to reclaim disk space, with Quick Clean and a Cache Status menu bar_
 > - [GitHub](https://www.raycast.com/raycast/github) - _My GitHub Stats Menu Bar, view followers, stars, PRs, issues and commits at a glance_
 > - [Open Folders](https://www.raycast.com/timothy_boye/open-folders) - _Open your common files and folders quickly!_
 > - [Text Shortcuts](https://www.raycast.com/koinzhang/text-shortcuts) - _Use Text Shortcuts to handle text from the selection or clipboard_
