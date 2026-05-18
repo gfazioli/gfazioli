@@ -72,6 +72,7 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 > - [Mantine Spinner](https://gfazioli.github.io/mantine-spinner/) - _A Mantine React component for an enhanced loading state_
 > - [Mantine Split Pane](https://gfazioli.github.io/mantine-split-pane/) - _A Mantine component that manages split panes allows users to divide and resize content areas within a layout efficiently_
 > - [Mantine Text Animate](https://gfazioli.github.io/mantine-text-animate/) - _A Mantine component that allows you to animate text with various effects_
+> - [Mantine Video](https://gfazioli.github.io/mantine-video/) - _A Mantine-native video player for React with compound API, headless `useVideo` hook, four variants, Picture-in-Picture, fullscreen, captions, live timeline scrubbing, and an `asBackground` mode for hero / section backgrounds._
 > - [Mantine Window](https://gfazioli.github.io/mantine-window/) - _A Mantine extension component that renders draggable, resizable floating windows with persistent state, customizable boundaries, collapsible content, and flexible control over position, size, and interaction modes_
 >
 > #### React Components
