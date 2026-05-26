@@ -43,6 +43,7 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 > ####  MacOS
 > 
 > - [FinderGit](https://findergit.app) - _A native macOS Git-aware file browser. Sortable columns for branch, status, changes and diffs across all your repositories at a glance, with an inline diff viewer, Git actions from the UI, native Markdown preview via Quick Look, and auto-updates via Sparkle. Built with SwiftUI._
+> - [Netfox](https://netfox.app) - _A native macOS network monitor for who's on your LAN. Multi-source discovery (Bonjour, ARP, SSDP, NetBIOS, ICMP), per-device timeline, security checks with Risk Inspector, Wi-Fi diagnostics with signal history, five-kind alerts, public IP and VPN awareness, Demo Mode privacy mask, tagging. SwiftUI throughout, no cloud, no telemetry, universal binary, signed and notarised with Sparkle auto-updates._
 > 
 > #### CLI / Terminal
 >
