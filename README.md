@@ -87,6 +87,7 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 > #### Templates
 > - [Vercel MantineUI + Nextra](https://vercel.com/templates/documentation/mantine-ui-nextra) - _Get started with beautiful documentation on the Next.js App Router, Nextra, and MantineUI_
 > - [Mantine NextJS App Router + Nextra Template](https://next-app-nextra-template.vercel.app/) - _This starter Next.js project includes a minimal setup for server side rendering, if you want to learn more on Mantine + Next.js_
+> - [Mantine NextJS App Router + Fumadocs Template](https://gfazioli.github.io/next-app-fumadocs-template/) - _Documentation starter with Next.js App Router, Mantine 9 and the headless Fumadocs engine — docs UI built 100% with Mantine, no Tailwind: collapsible sidebar, clerk-style TOC, `⌘K` Orama search with Mantine Spotlight, live GitHub release notes. Deploys to GitHub Pages (bundled workflow) or Vercel._
 >
 > #### WordPress Plugins
 >
