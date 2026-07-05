@@ -107,6 +107,11 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 > - [Open Folders](https://www.raycast.com/timothy_boye/open-folders) - _Open your common files and folders quickly!_
 > - [Text Shortcuts](https://www.raycast.com/koinzhang/text-shortcuts) - _Use Text Shortcuts to handle text from the selection or clipboard_
 > - [Window Layouts](https://www.raycast.com/teemu_suvinen/window-layouts) - _Tile open windows into predefined or custom layouts, Save & Restore, Auto Layout, Pick Layout_
+> 
+> #### Glaze
+>
+> - [Applause](https://www.glaze.app/app/applause-0La79U) - _A macOS menu bar app that celebrates your GitHub stars in real time — live star counts with automatic refresh, confetti and toast notifications on every new star, daily and session deltas with sparklines, a recent-stars feed with contributor avatars, and milestone celebrations. All processed locally, no external tracking._
+> - [Quokka](https://www.glaze.app/app/quokka-jKQxa8) - _A number-logic puzzle: fill the grid by placing 1–25 along a single continuous path, leaping three cells straight or two diagonally on each move. Multiple difficulty levels up to zero-undo Genius mode, timer or zen mode, grids from 5×5 to 100×100, and a shareable Daily Challenge — fully offline, no account needed._
 
 
 ---
