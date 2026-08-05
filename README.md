@@ -37,7 +37,7 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 > <h3>⭐ Projects</h3>
 >
 > - [WP Bones](https://wpbones.com) - _A lightweight framework that offers tools and guidelines to simplify WordPress plugin development_
-> - [Mantine Extensions](https://mantine-extensions.vercel.app) - _Mantine UI awesome components extensions_
+> - [Mantine Extensions](https://mantine-extensions.vercel.app) - _The showcase hub for 25+ Mantine UI extensions — live demos, documentation and copy-paste examples for every component, from Window and Split Pane to Text Animate and Onboarding Tour. Built with Next.js 16, Mantine 9 and Nextra 4._
 > - [Amiga Assembly Library](https://amiga-assembly-library.vercel.app/) - _A shared library for Commodore Amiga written in Motorola 68020 assembly language. Provides 50+ functions for graphics, file I/O, memory management, UI, and more. Compatible with KickStart 3.0+._
 >
 > ####  MacOS
@@ -111,6 +111,9 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 > #### Glaze
 >
 > - [Applause](https://www.glaze.app/app/applause-0La79U) - _A macOS menu bar app that celebrates your GitHub stars in real time — live star counts with automatic refresh, confetti and toast notifications on every new star, daily and session deltas with sparklines, a recent-stars feed with contributor avatars, and milestone celebrations. All processed locally, no external tracking._
+> - [Galaga 1983](https://www.glaze.app/app/galaga-1983-WWwcYw) - _A faithful desktop recreation of the 1983 arcade shooter — command your fighter against swarming enemy formations, face the boss Galaga with its distinctive attack patterns, and chase the high score with smooth, responsive controls._
+> - [Pac-Man Classic](https://www.glaze.app/app/pac-man-classic-WC9u94) - _A pixel-perfect recreation of the iconic 1980s maze arcade game — collect the pellets while outsmarting the four ghosts, play with arrow keys or WASD, pause, mute and restart with dedicated shortcuts, all with authentic retro sound effects._
+> - [Pole Position](https://www.glaze.app/app/pole-position-gjRKc2) - _A desktop recreation of the 1982 polygon racing classic — precision steering and acceleration across multiple tracks with increasing difficulty and unique obstacles, racing against the clock to reach the finish line before time expires._
 > - [Quokka](https://www.glaze.app/app/quokka-jKQxa8) - _A number-logic puzzle: fill the grid by placing 1–25 along a single continuous path, leaping three cells straight or two diagonally on each move. Multiple difficulty levels up to zero-undo Genius mode, timer or zen mode, grids from 5×5 to 100×100, and a shareable Daily Challenge — fully offline, no account needed._
 
 
