@@ -125,6 +125,7 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 > - [Undolog.com](https://undolog.com) - _R&D blog — deep dives on React, TypeScript, WordPress, and Go_
 > - [Dev.to](https://dev.to/undolog) - _Tutorials and release notes_
 > - [Medium](https://medium.com/@giovambattista.fazioli) - _Long-form articles_
+> - [ZyVOP](https://zyvop.com/author/giovambattista) - _Dev articles and product showcases_
 > - [NPM](https://www.npmjs.com/~gfazioli) - _Published npm packages_
 > - [Composer](https://packagist.org/users/gfazioli/packages/) - _PHP packages on Packagist_
 
