@@ -162,12 +162,14 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 
 <div align="center">
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gfazioli&theme=great-gatsby&hide_border=true) -->
-![](https://github-contributor-stats.vercel.app/api?username=gfazioli&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gfazioli&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gfazioli&theme=github_light" height="200" alt="Top languages by repository" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gfazioli&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gfazioli&theme=github_light" height="200" alt="Top languages by commit" />
+</picture>
 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gfazioli&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
