@@ -43,6 +43,7 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 > ####  MacOS
 > 
 > - [FinderGit](https://findergit.app) - _A native macOS Git-aware file browser. Sortable columns for branch, status, changes and diffs across all your repositories at a glance, with an inline diff viewer, Git actions from the UI, native Markdown preview via Quick Look, and auto-updates via Sparkle. Built with SwiftUI._
+> - [Lancetta](https://lancetta.app) - _A native macOS menu-bar monitor for Codex and Claude Code. Both quota windows for each agent — the 5-hour and the 7-day — with the plan read from the account, the bucket that refused named instead of averaged away, a pace line saying where the window lands at the rate you are going, and every reading carrying its own age. Reading a quota spends no tokens: no model is ever asked. It also reclaims the orphaned agent process trees nothing else reaps, lives under the notch on a MacBook Pro, and keeps a window of daily token history over 7, 30 or 90 days. SwiftUI throughout, free, universal binary, signed and notarised._
 > - [Netfox](https://netfox.app) - _A native macOS network monitor for who's on your LAN. Multi-source discovery (Bonjour, ARP, SSDP, NetBIOS, ICMP), per-device timeline, security checks with Risk Inspector, Wi-Fi diagnostics with signal history, five-kind alerts, public IP and VPN awareness, Demo Mode privacy mask, tagging. SwiftUI throughout, no cloud, no telemetry, universal binary, signed and notarised with Sparkle auto-updates._
 > 
 > #### CLI / Terminal
