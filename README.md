@@ -123,6 +123,7 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 > [!TIP]
 > <h3>⭐ Tech Links</h3>
 >
+> - [Discord](https://discord.gg/rdWu5yFCR6) - _The community — help, ideas and what comes next for FinderGit, Netfox, Lancetta and octoscope_
 > - [Undolog.com](https://undolog.com) - _R&D blog — deep dives on React, TypeScript, WordPress, and Go_
 > - [Dev.to](https://dev.to/undolog) - _Tutorials and release notes_
 > - [Medium](https://medium.com/@giovambattista.fazioli) - _Long-form articles_
@@ -144,7 +145,7 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 [![Bluesky](https://img.shields.io/badge/Bluesky-%231877F2.svg?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/gfazioli.bsky.social) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%231877F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://it.linkedin.com/in/giovambattistafazioli) &nbsp;
 [![Medium](https://img.shields.io/badge/medium-%231877F2.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@giovambattista.fazioli) &nbsp;
-[![Slack](https://img.shields.io/badge/Slack-%231877F2.svg?style=for-the-badge&logo=Slack&logoColor=white)](https://undolog.slack.com) &nbsp;
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rdWu5yFCR6) &nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/undolog) &nbsp;
 
 </div>
