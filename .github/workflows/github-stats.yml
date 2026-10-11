@@ -1,0 +1,71 @@
+# Renders github-stats.svg, the "GitHub activity" card of the profile README,
+# with scripts/github-stats.mjs — our own generator, in place of the external
+# card services the README used to embed.
+#
+# On master it commits the card back when it changed. Commits pushed with
+# GITHUB_TOKEN start no workflow, so this never triggers itself; and they keep
+# the repository active, which is what stops GitHub from disabling the
+# schedule after 60 quiet days.
+#
+# On a pull request it only renders, and uploads the card as an artifact: the
+# preview of a change to the generator, drawn with the same token and
+# therefore the same public numbers as the committed card.
+
+name: GitHub stats card
+
+on:
+  schedule:
+    - cron: "30 5 * * *"
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/github-stats.yml"
+  pull_request:
+    paths:
+      - "scripts/**"
+      - ".github/workflows/github-stats.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-stats-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+
+      - name: Render the card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/github-stats.mjs github-stats.svg
+
+      - name: Upload the preview
+        if: github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v7
+        with:
+          name: github-stats
+          path: github-stats.svg
+
+      - name: Commit the card when it changed
+        if: github.event_name != 'pull_request'
+        run: |
+          git add github-stats.svg
+          if git diff --cached --quiet; then
+            echo "Card unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh the GitHub stats card"
+          git push
