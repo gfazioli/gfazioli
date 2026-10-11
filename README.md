@@ -158,20 +158,7 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 
 <div align="center">
 
-![stats](https://gh-readme-profile.vercel.app/api?username=gfazioli&theme=ayu&border_radius=8)
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gfazioli&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gfazioli&theme=github_light" height="200" alt="Top languages by repository" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gfazioli&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gfazioli&theme=github_light" height="200" alt="Top languages by commit" />
-</picture>
+<img src="github-stats.svg" width="880" alt="GitHub activity of @gfazioli: followers, stars, public repositories, pull requests, issues, contributions in the last year, top repositories and languages" />
 
 </div>
 
