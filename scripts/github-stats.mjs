@@ -58,7 +58,6 @@ query($login: String!, $prs: String!, $merged: String!, $issues: String!) {
     avatarUrl(size: 160)
     followers { totalCount }
     following { totalCount }
-    organizations(first: 1) { totalCount }
     contributionsCollection {
       totalCommitContributions
       totalRepositoriesWithContributedCommits
@@ -160,7 +159,6 @@ function header(user, avatar, updated, y) {
     user.company,
     user.location,
     user.websiteUrl?.replace(/^https?:\/\//, "").replace(/\/$/, ""),
-    `Joined ${new Date(user.createdAt).getUTCFullYear()}`,
   ]
     .filter(Boolean)
     .map(esc)
@@ -349,6 +347,11 @@ const langs = ranked.slice(0, 5);
 const rest = ranked.slice(5).reduce((s, l) => s + l.count, 0);
 if (rest > 0) langs.push({ name: "Other", color: "#6e7681", count: rest });
 
+const now = new Date();
+const joined = new Date(user.createdAt);
+const years = Math.floor((now - joined) / (365.25 * 24 * 3600 * 1000));
+const updated = `${MONTHS[now.getUTCMonth()]} ${now.getUTCDate()}, ${now.getUTCFullYear()}`;
+
 const tileItems = [
   { icon: "people", color: "#60a5fa", value: compact(user.followers.totalCount), label: "Followers", sub: "on GitHub" },
   { icon: "person", color: "#22d3ee", value: compact(user.following.totalCount), label: "Following", sub: "developers" },
@@ -359,11 +362,8 @@ const tileItems = [
   { icon: "issue-opened", color: "#4ade80", value: compact(data.issues.issueCount), label: "Issues", sub: "opened" },
   { icon: "git-commit", color: "#fb923c", value: compact(cc.totalCommitContributions), label: "Commits", sub: "last year" },
   { icon: "graph", color: "#fb7185", value: compact(cc.totalRepositoriesWithContributedCommits), label: "Contributed", sub: "repos, last year" },
-  { icon: "organization", color: "#94a3b8", value: compact(user.organizations.totalCount), label: "Organizations", sub: "member of" },
+  { icon: "calendar", color: "#94a3b8", value: String(years), label: "Years on GitHub", sub: `since ${joined.getUTCFullYear()}` },
 ];
-
-const now = new Date();
-const updated = `${MONTHS[now.getUTCMonth()]} ${now.getUTCDate()}, ${now.getUTCFullYear()}`;
 
 let y = PAD;
 const parts = [];
