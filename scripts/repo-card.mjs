@@ -318,12 +318,13 @@ function textWidth(s, size, weight = 400, mono = false) {
   return (units * size * SLACK) / 100;
 }
 
-/** `s` clipped with an ellipsis to fit `max` px. */
+/** `s` clipped with an ellipsis to fit `max` px, never inside a surrogate pair. */
 function fit(s, max, size, weight = 400, mono = false) {
-  let t = String(s);
+  const t = String(s);
   if (textWidth(t, size, weight, mono) <= max) return t;
-  while (t.length > 1 && textWidth(`${t}…`, size, weight, mono) > max) t = t.slice(0, -1);
-  return `${t.trimEnd()}…`;
+  const chars = Array.from(t);
+  while (chars.length > 1 && textWidth(`${chars.join("")}…`, size, weight, mono) > max) chars.pop();
+  return `${chars.join("").trimEnd()}…`;
 }
 
 /** `s` broken into at most `lines` lines of `max` px, the last one clipped. */
