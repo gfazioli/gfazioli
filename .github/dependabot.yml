@@ -1,0 +1,8 @@
+# Moves the pinned action SHAs in glancecard.yml, glancecard's included,
+# when a new release comes out.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
