@@ -1,15 +1,19 @@
 # Renders github-stats.svg, the "GitHub activity" card of the profile README,
 # with scripts/github-stats.mjs — our own generator, in place of the external
-# card services the README used to embed.
+# card services the README used to embed — and cards/<repo>.svg, one card per
+# repository listed in scripts/repo-cards.json, with scripts/repo-card.mjs.
+# Each project's README embeds its card from this repository's master.
 #
-# On master it commits the card back when it changed. Commits pushed with
+# On master it commits the cards back when they changed. Commits pushed with
 # GITHUB_TOKEN start no workflow, so this never triggers itself; and they keep
 # the repository active, which is what stops GitHub from disabling the
-# schedule after 60 quiet days.
+# schedule after 60 quiet days. A repository that fails to render keeps its
+# previous card: the others are still committed, and the run fails so the
+# failure is seen.
 #
-# On a pull request it only renders, and uploads the card as an artifact: the
-# preview of a change to the generator, drawn with the same token and
-# therefore the same public numbers as the committed card.
+# On a pull request it only renders, and uploads the cards as an artifact: the
+# preview of a change to the generators, drawn with the same token and
+# therefore the same public numbers as the committed cards.
 
 name: GitHub stats card
 
@@ -37,7 +41,7 @@ concurrency:
 jobs:
   render:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v7
 
@@ -50,22 +54,30 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/github-stats.mjs github-stats.svg
 
+      - name: Render the repository cards
+        if: ${{ !cancelled() }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/repo-card.mjs
+
       - name: Upload the preview
-        if: github.event_name == 'pull_request'
+        if: ${{ !cancelled() && github.event_name == 'pull_request' }}
         uses: actions/upload-artifact@v7
         with:
           name: github-stats
-          path: github-stats.svg
+          path: |
+            github-stats.svg
+            cards/
 
-      - name: Commit the card when it changed
-        if: github.event_name != 'pull_request'
+      - name: Commit the cards when they changed
+        if: ${{ !cancelled() && github.event_name != 'pull_request' }}
         run: |
-          git add github-stats.svg
+          git add github-stats.svg cards
           if git diff --cached --quiet; then
-            echo "Card unchanged."
+            echo "Cards unchanged."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore: refresh the GitHub stats card"
+          git commit -m "chore: refresh the GitHub stats cards"
           git push
