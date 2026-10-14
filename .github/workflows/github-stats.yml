@@ -50,6 +50,7 @@ jobs:
           node-version: 24
 
       - name: Render the card
+        id: profile
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/github-stats.mjs github-stats.svg
@@ -71,8 +72,13 @@ jobs:
 
       - name: Commit the cards when they changed
         if: ${{ !cancelled() && github.event_name != 'pull_request' }}
+        env:
+          PROFILE_RENDERED: ${{ steps.profile.outcome == 'success' }}
         run: |
-          git add github-stats.svg cards
+          # The steps above run even when one fails, so stage only what
+          # rendered: a failed profile render may leave a partial file.
+          if [ "$PROFILE_RENDERED" = true ]; then git add github-stats.svg; fi
+          if [ -d cards ]; then git add cards; fi
           if git diff --cached --quiet; then
             echo "Cards unchanged."
             exit 0
