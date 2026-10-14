@@ -1,0 +1,39 @@
+# Renders the profile card and the repository cards with glancecard
+# (https://github.com/gfazioli/glancecard) and commits them to glancecard/.
+# A project's README embeds its card from this repository's master, so the
+# daily bot commit lands here and the project's own history stays clean.
+#
+# To add a project: one line under `repos`, then a <picture> in its README
+# pointing at raw.githubusercontent.com/gfazioli/gfazioli/master/glancecard/.
+
+name: glancecard
+
+on:
+  schedule:
+    - cron: "30 5 * * *"
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - ".github/workflows/glancecard.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: glancecard
+  cancel-in-progress: false
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+      - uses: gfazioli/glancecard@v0.1.0
+        with:
+          profile: gfazioli
+          repos: |
+            gfazioli/octoscope
+          time-zone: Europe/Rome
+          commit-message: "chore: refresh the glancecard cards"
