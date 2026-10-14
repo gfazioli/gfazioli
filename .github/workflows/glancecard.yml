@@ -35,5 +35,6 @@ jobs:
           profile: gfazioli
           repos: |
             gfazioli/octoscope
+            gfazioli/glancecard
           time-zone: Europe/Rome
           commit-message: "chore: refresh the glancecard cards"
