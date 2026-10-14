@@ -30,7 +30,7 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-      - uses: gfazioli/glancecard@f9ed9a22464ae50d1a6dcaffa80ac8901f7d10d6 # v0.1.0
+      - uses: gfazioli/glancecard@8d2ed1008161e2cd9867f3489de351dd46e926bd # v0.2.0
         with:
           profile: gfazioli
           repos: |
