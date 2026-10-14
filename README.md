@@ -49,6 +49,7 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 > #### CLI / Terminal
 >
 > - [octoscope](https://gfazioli.github.io/octoscope/) - _A cross-platform terminal dashboard for GitHub. Profile, social, activity, repo health and languages breakdown at a glance, auto-refreshed every 60 seconds, with native notifications when stars or followers change. Works on your own account or any public profile. Single binary via Homebrew, `go install`, or as a `gh` extension. Built with Go and BubbleTea._
+> - [glancecard](https://github.com/gfazioli/glancecard) - _Your GitHub profile and repositories, at a glance: daily SVG cards for your READMEs. A repository dashboard laid out like FinderGit and a profile card, in dark and light, rendered and committed by a GitHub Action in your own repository. No server, no dependencies._
 > 
 > #### Mantine UI Components
 >
@@ -158,7 +159,10 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 
 <div align="center">
 
-<img src="github-stats.svg" width="880" alt="GitHub activity of @gfazioli: followers, stars, public repositories, pull requests, issues, contributions in the last year, top repositories and languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="glancecard/profile-dark.svg">
+  <img src="glancecard/profile-light.svg" width="880" alt="GitHub activity of @gfazioli: followers, stars, public repositories, pull requests, issues, contributions in the last year, top repositories and languages" />
+</picture>
 
 </div>
 
