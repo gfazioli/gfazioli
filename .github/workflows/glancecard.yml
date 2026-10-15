@@ -36,5 +36,8 @@ jobs:
           repos: |
             gfazioli/octoscope
             gfazioli/glancecard
+          # dark and light for a <picture>; halloween is worn from 1 October
+          # to 2 November and is Midnight the rest of the year.
+          theme: dark, light, halloween
           time-zone: Europe/Rome
           commit-message: "chore: refresh the glancecard cards"
