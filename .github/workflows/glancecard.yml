@@ -3,8 +3,9 @@
 # A project's README embeds its card from this repository's master, so the
 # daily bot commit lands here and the project's own history stays clean.
 #
-# To add a project: one line under `repos`, then a <picture> in its README
-# pointing at raw.githubusercontent.com/gfazioli/gfazioli/master/glancecard/.
+# To add a project: one line under the second step's `repos`, then the card
+# under its README's title, pointing at
+# raw.githubusercontent.com/gfazioli/gfazioli/master/glancecard/<name>.svg.
 
 name: glancecard
 
@@ -27,7 +28,7 @@ concurrency:
 jobs:
   cards:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - uses: gfazioli/glancecard@9c25b9eed969b7c610e995bfdfb906486a86d390 # v0.3.0
@@ -39,5 +40,74 @@ jobs:
           # dark and light for a <picture>; halloween is worn from 1 October
           # to 2 November and is Midnight the rest of the year.
           theme: dark, light, halloween
+          time-zone: Europe/Rome
+          commit-message: "chore: refresh the glancecard cards"
+      # Every other public repository with a README: one file each, <name>.svg,
+      # in one seasonal look. Halloween is worn from 1 October to 2 November and
+      # is Midnight the rest of the year; switching the season is this line
+      # alone, the READMEs point at the file, not at a look.
+      - uses: gfazioli/glancecard@9c25b9eed969b7c610e995bfdfb906486a86d390 # v0.3.0
+        with:
+          repos: |
+            gfazioli/amiga-assembly-library
+            gfazioli/Amiga-Guru-Meditation
+            gfazioli/Boilerplate-Laravel-Facade
+            gfazioli/brand
+            gfazioli/browser-storage
+            gfazioli/Chroma-Key
+            gfazioli/commodore-64
+            gfazioli/findergit-website
+            gfazioli/gfazioli.github.io
+            gfazioli/gh-octoscope
+            gfazioli/git-towser-test
+            gfazioli/homebrew-tap
+            gfazioli/lancetta-website
+            gfazioli/Laravel-Artisan-Supervisor-Command
+            gfazioli/Laravel-Morris-PHP
+            gfazioli/mantine-audio
+            gfazioli/mantine-book
+            gfazioli/mantine-border-animate
+            gfazioli/mantine-clock
+            gfazioli/mantine-compare
+            gfazioli/mantine-depth-select
+            gfazioli/mantine-extensions-assets
+            gfazioli/mantine-extensions-hub
+            gfazioli/mantine-flip
+            gfazioli/mantine-json-tree
+            gfazioli/mantine-led
+            gfazioli/mantine-lens-select
+            gfazioli/mantine-list-view-table
+            gfazioli/mantine-marquee
+            gfazioli/mantine-mask
+            gfazioli/mantine-onboarding-tour
+            gfazioli/mantine-parallax
+            gfazioli/mantine-picker
+            gfazioli/mantine-qr-code
+            gfazioli/mantine-reflection
+            gfazioli/mantine-rings-progress
+            gfazioli/mantine-scene
+            gfazioli/mantine-select-stepper
+            gfazioli/mantine-spinner
+            gfazioli/mantine-split-pane
+            gfazioli/mantine-text-animate
+            gfazioli/mantine-video
+            gfazioli/mantine-window
+            gfazioli/morris-php
+            gfazioli/netfox-website
+            gfazioli/next-app-fumadocs-template
+            gfazioli/next-app-nextra-template
+            gfazioli/Papervision3D-Card
+            gfazioli/react-amiga-guru-meditation
+            gfazioli/react-animatecss
+            gfazioli/react-component-boilerplate
+            gfazioli/react-flip
+            gfazioli/react-switch-button
+            gfazioli/react-tilt
+            gfazioli/react-toggle
+            gfazioli/tic-tac-toe
+            gfazioli/VagrantUbuntu
+            gfazioli/wp-javascript-event
+            gfazioli/wpdk-book
+          theme: halloween
           time-zone: Europe/Rome
           commit-message: "chore: refresh the glancecard cards"
