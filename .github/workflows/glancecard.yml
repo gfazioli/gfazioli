@@ -31,7 +31,7 @@ jobs:
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-      - uses: gfazioli/glancecard@9c25b9eed969b7c610e995bfdfb906486a86d390 # v0.3.0
+      - uses: gfazioli/glancecard@160d912dab9b030101eae3d7f61309007ed0015d # v0.4.0
         with:
           profile: gfazioli
           repos: |
@@ -46,7 +46,7 @@ jobs:
       # in one seasonal look. Halloween is worn from 1 October to 2 November and
       # is Midnight the rest of the year; switching the season is this line
       # alone, the READMEs point at the file, not at a look.
-      - uses: gfazioli/glancecard@9c25b9eed969b7c610e995bfdfb906486a86d390 # v0.3.0
+      - uses: gfazioli/glancecard@160d912dab9b030101eae3d7f61309007ed0015d # v0.4.0
         with:
           repos: |
             gfazioli/amiga-assembly-library
