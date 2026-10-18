@@ -40,18 +40,37 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 > - [Mantine Extensions](https://mantine-extensions.vercel.app) - _The showcase hub for 25+ Mantine UI extensions — live demos, documentation and copy-paste examples for every component, from Window and Split Pane to Text Animate and Onboarding Tour. Built with Next.js 16, Mantine 9 and Nextra 4._
 > - [Amiga Assembly Library](https://amiga-assembly-library.vercel.app/) - _A shared library for Commodore Amiga written in Motorola 68020 assembly language. Provides 50+ functions for graphics, file I/O, memory management, UI, and more. Compatible with KickStart 3.0+._
 >
+> <details open>
+> <summary>
+>
 > ####  MacOS
-> 
+>
+> </summary>
+>
 > - [FinderGit](https://findergit.app) - _A native macOS Git-aware file browser. Sortable columns for branch, status, changes and diffs across all your repositories at a glance, with an inline diff viewer, Git actions from the UI, native Markdown preview via Quick Look, and auto-updates via Sparkle. Built with SwiftUI._
 > - [Lancetta](https://lancetta.app) - _A native macOS menu-bar monitor for Codex and Claude Code. Both quota windows per agent, a pace line saying where each one lands at your current rate, and every reading carrying its own age — and reading a quota spends no tokens. It also reaps the orphaned agent processes nothing else does, and sits under the notch on a MacBook Pro. SwiftUI, free, universal binary, signed and notarised._
 > - [Netfox](https://netfox.app) - _A native macOS network monitor for who's on your LAN. Multi-source discovery (Bonjour, ARP, SSDP, NetBIOS, ICMP), per-device timeline, security checks with Risk Inspector, Wi-Fi diagnostics with signal history, five-kind alerts, public IP and VPN awareness, Demo Mode privacy mask, tagging. SwiftUI throughout, no cloud, no telemetry, universal binary, signed and notarised with Sparkle auto-updates._
-> 
+>
+> </details>
+>
+> <details open>
+> <summary>
+>
 > #### CLI / Terminal
+>
+> </summary>
 >
 > - [octoscope](https://gfazioli.github.io/octoscope/) - _A cross-platform terminal dashboard for GitHub. Profile, social, activity, repo health and languages breakdown at a glance, auto-refreshed every 60 seconds, with native notifications when stars or followers change. Works on your own account or any public profile. Single binary via Homebrew, `go install`, or as a `gh` extension. Built with Go and BubbleTea._
 > - [glancecard](https://gfazioli.github.io/glancecard/) - _Your GitHub profile and repositories, at a glance: daily SVG cards for your READMEs. A repository dashboard laid out like FinderGit and a profile card, in nine looks with Halloween and Christmas in their season, rendered and committed by a GitHub Action in your own repository, or by its CLI. No server, no dependencies._
-> 
+>
+> </details>
+>
+> <details>
+> <summary>
+>
 > #### Mantine UI Components
+>
+> </summary>
 >
 > - [Mantine Audio](https://gfazioli.github.io/mantine-audio/) - _A Mantine-native audio player for React with waveform visualisation, live spectrum analyser, compound API, headless `useAudio` hook, scrubbable timeline with `scrubSound`, multiple-source delivery, `fallbackSrc`, and an `asBackground` preset for ambient hero tracks._
 > - [Mantine Border Animate](https://gfazioli.github.io/mantine-border-animate/) - _Mantine component for animated border effects with four variants (beam, glow, gradient, pulse), customizable colors, and full animation control. Ideal for creating eye-catching, dynamically styled UI elements with smooth CSS animations._
@@ -80,25 +99,53 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 > - [Mantine Video](https://gfazioli.github.io/mantine-video/) - _A Mantine-native video player for React with compound API, headless `useVideo` hook, four variants, Picture-in-Picture, fullscreen, captions, live timeline scrubbing, and an `asBackground` mode for hero / section backgrounds._
 > - [Mantine Window](https://gfazioli.github.io/mantine-window/) - _A Mantine extension component that renders draggable, resizable floating windows with persistent state, customizable boundaries, collapsible content, and flexible control over position, size, and interaction modes_
 >
+> </details>
+>
+> <details>
+> <summary>
+>
 > #### React Components
+>
+> </summary>
 >
 > - [react-toggle-component](https://gfazioli.github.io/react-toggle/) - _Accessible, themeable React toggle/switch with `role="switch"`, ARIA, and CSS-variable theming. Zero runtime dependencies, ~3 KB gzipped, dual ESM+CJS, TypeScript-first. Live theme builder with shareable URLs and ready-made presets (iOS, Material, Pill, Neon)._
 > - [react-amiga-guru-meditation](https://gfazioli.github.io/react-amiga-guru-meditation/) - _A React Error Boundary styled like the Amiga Guru Meditation. Same contract as `react-error-boundary` (`fallback` / `fallbackRender` / `onError` / `resetKeys`), plus a `useAmigaGuru()` hook for triggering errors from function components. ARIA-compliant (`role="alert"`), themeable via CSS variables, zero deps, ~2 KB gzipped. Inline by default; opt into the iconic full-bleed Amiga takeover with a single prop._
 > - [@gfazioli/react-flip](https://gfazioli.github.io/react-flip/) - _A React component that wraps any two faces and animates a 3D rotation between them. Compound API (`<Flip>` + `<Flip.Target>`), controlled or uncontrolled, with tunable `perspective` / `duration` / `easing` / `direction` and separate `directionFlipIn` / `directionFlipOut` for one-way coin-flip rotations. Themeable via `--rfp-*` CSS variables, zero deps, ~2 KB gzipped, TypeScript-first._
 > - [@gfazioli/react-tilt](https://gfazioli.github.io/react-tilt/) - _A React component that turns any element into an interactive 3D tilt card with parallax (`<Tilt.Layer depth={n}>` for layered depth), glare, light, dynamic shadow, gyroscope (with iOS 13+ permission flow), spring physics, and keyboard support. Live builder with shareable URLs, six ready-made presets. Themeable via `--rtilt-radius` CSS variable, zero runtime dependencies, ~6 KB gzipped, dual ESM+CJS, TypeScript-first._
 >
+> </details>
+>
+> <details>
+> <summary>
+>
 > #### Templates
+>
+> </summary>
+>
 > - [Vercel MantineUI + Nextra](https://vercel.com/templates/documentation/mantine-ui-nextra) - _Get started with beautiful documentation on the Next.js App Router, Nextra, and MantineUI_
 > - [Mantine NextJS App Router + Nextra Template](https://next-app-nextra-template.vercel.app/) - _This starter Next.js project includes a minimal setup for server side rendering, if you want to learn more on Mantine + Next.js_
 > - [Mantine NextJS App Router + Fumadocs Template](https://gfazioli.github.io/next-app-fumadocs-template/) - _Documentation starter with Next.js App Router, Mantine 9 and the headless Fumadocs engine — docs UI built 100% with Mantine, no Tailwind: collapsible sidebar, clerk-style TOC, `⌘K` Orama search with Mantine Spotlight, live GitHub release notes. Deploys to GitHub Pages (bundled workflow) or Vercel._
 >
+> </details>
+>
+> <details>
+> <summary>
+>
 > #### WordPress Plugins
+>
+> </summary>
 >
 > - [Bannerize](https://bannerize.vercel.app/) - _WordPress banner management with built-in impressions, clicks, and CTR analytics. Create image, HTML, or WebP banners, organize them into campaigns, and track performance with trend charts and CSV export. Built with WPBones and Mantine UI._
 > - [Scotty](https://scotty-plugin.vercel.app/) - _WordPress site maintenance and optimization with a modern React/Mantine dashboard. Clean your database, manage cron jobs, control 22+ hidden WordPress settings, and monitor site health — all from a single interface. Built with WPBones._
 >
-> 
+> </details>
+>
+> <details>
+> <summary>
+>
 > #### Raycast Extensions I maintain or contribute to
+>
+> </summary>
 >
 > - [Sync Folders](https://www.raycast.com/Undolog/sync-folders) - _Sync two folders with rsync, manage presets, Dry Run preview, AI Advice, Sync History, Menu bar launch_
 > - [WP Bones](https://www.raycast.com/Undolog/wp-bones) - _Search Docs, Ask AI, Release Notes, Menu Bar Sync Version, Starter Boilerplate_
@@ -109,14 +156,23 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 > - [Open Folders](https://www.raycast.com/timothy_boye/open-folders) - _Open your common files and folders quickly!_
 > - [Text Shortcuts](https://www.raycast.com/koinzhang/text-shortcuts) - _Use Text Shortcuts to handle text from the selection or clipboard_
 > - [Window Layouts](https://www.raycast.com/teemu_suvinen/window-layouts) - _Tile open windows into predefined or custom layouts, Save & Restore, Auto Layout, Pick Layout_
-> 
+>
+> </details>
+>
+> <details>
+> <summary>
+>
 > #### Glaze
+>
+> </summary>
 >
 > - [Applause](https://www.glaze.app/app/applause-0La79U) - _A macOS menu bar app that celebrates your GitHub stars in real time — live star counts with automatic refresh, confetti and toast notifications on every new star, daily and session deltas with sparklines, a recent-stars feed with contributor avatars, and milestone celebrations. All processed locally, no external tracking._
 > - [Galaga 1983](https://www.glaze.app/app/galaga-1983-WWwcYw) - _A faithful desktop recreation of the 1983 arcade shooter — command your fighter against swarming enemy formations, face the boss Galaga with its distinctive attack patterns, and chase the high score with smooth, responsive controls._
 > - [Pac-Man Classic](https://www.glaze.app/app/pac-man-classic-WC9u94) - _A pixel-perfect recreation of the iconic 1980s maze arcade game — collect the pellets while outsmarting the four ghosts, play with arrow keys or WASD, pause, mute and restart with dedicated shortcuts, all with authentic retro sound effects._
 > - [Pole Position](https://www.glaze.app/app/pole-position-gjRKc2) - _A desktop recreation of the 1982 polygon racing classic — precision steering and acceleration across multiple tracks with increasing difficulty and unique obstacles, racing against the clock to reach the finish line before time expires._
 > - [Quokka](https://www.glaze.app/app/quokka-jKQxa8) - _A number-logic puzzle: fill the grid by placing 1–25 along a single continuous path, leaping three cells straight or two diagonally on each move. Multiple difficulty levels up to zero-undo Genius mode, timer or zen mode, grids from 5×5 to 100×100, and a shareable Daily Challenge — fully offline, no account needed._
+>
+> </details>
 
 
 ---
