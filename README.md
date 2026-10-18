@@ -33,6 +33,8 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 > I am the Lead Developer on the Cloud team at [Namecheap](https://namecheap.com). I enjoy working with ReactJS, TypeScript, and NextJS, Go, and SwiftUI.
 
 ---
+<!-- Each project section is a <details> whose <summary> holds the "> #### Section" line, unchanged:
+     gfazioli.github.io/scripts/fetch-github.mjs finds the sections by that line, so never turn it into <summary><b>. -->
 > [!IMPORTANT]
 > <h3>⭐ Projects</h3>
 >
