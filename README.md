@@ -13,7 +13,7 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 </div>
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/25b93dfd-c058-4489-a792-5f253caaae60"/>
+<img src="assets/retro-desk.webp"/>
 </div>
 
 ## ❤️ Sponsors
