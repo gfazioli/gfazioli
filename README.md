@@ -21,6 +21,9 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 <a href="https://github.com/kastov">
   <img src="https://avatars.githubusercontent.com/u/9641779?v=4" width="56" height="56" alt="kastov" />
 </a>
+<a href="https://github.com/guimazza">
+  <img src="https://avatars.githubusercontent.com/u/15198657?v=4" width="56" height="56" alt="guimazza" />
+</a>
 
 ---
 
