@@ -220,7 +220,10 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 
 <div align="center">
 
-<img src="glancecard/profile-halloween.svg" width="880" alt="GitHub activity of @gfazioli: followers, stars, public repositories, pull requests, issues, contributions in the last year, top repositories and languages" /><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="glancecard/profile-dark.svg">
+  <img src="glancecard/profile-light.svg" width="880" alt="GitHub activity of @gfazioli: followers, stars, public repositories, pull requests, issues, contributions in the last year, top repositories and languages" />
+</picture><br>
 <sub>Made with <a href="https://github.com/gfazioli/glancecard">glancecard</a> · refreshed daily</sub>
 
 </div>
