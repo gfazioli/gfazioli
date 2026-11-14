@@ -33,7 +33,7 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 > Eventually, I started my own company and served as the CTO.
 
 > [!TIP]
-> I am the Lead Developer on the Cloud team at [Namecheap](https://namecheap.com). I enjoy working with ReactJS, TypeScript, and NextJS, Go, and SwiftUI.
+> Today I'm a freelance developer, and I still write software for the love of it. I enjoy working with ReactJS, TypeScript, NextJS, Go, and SwiftUI.
 
 ---
 <!-- Each project section is a <details> whose <summary> holds the "> #### Section" line, unchanged:
