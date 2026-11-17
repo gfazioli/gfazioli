@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="1769" viewBox="0 0 880 1769" role="img" aria-labelledby="t d">
 <title id="t">gfazioli/gh-octoscope at a glance</title>
-<desc id="d">octoscope as a gh extension — gh extension install gfazioli/gh-octoscope. 2 commits, 2 commits in the last year, 1 star, 18 releases (latest v0.41.2), 1 contributor.</desc>
+<desc id="d">octoscope as a gh extension — gh extension install gfazioli/gh-octoscope. 2 commits, 2 commits in the last year, 1 star, 19 releases (latest v0.41.3), 1 contributor.</desc>
 <style>
   text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; fill: #e6edf3; }
   .mono, .tagname { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
@@ -139,9 +139,9 @@
   <rect x="122.363" y="110" width="189.4" height="22" rx="11" fill="#60a5fa26" stroke="#60a5fa33"/>
   <g transform="translate(130.363 114) scale(0.875)" fill="#60a5fa"><path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/></g>
   <text x="149.4" y="125" class="pill">Since Sep 2026 · 2 months</text>
-  <rect x="319.7914" y="110" width="79.2" height="22" rx="11" fill="#22d3ee26" stroke="#22d3ee33"/>
+  <rect x="319.7914" y="110" width="79.4" height="22" rx="11" fill="#22d3ee26" stroke="#22d3ee33"/>
   <g transform="translate(327.7914 114) scale(0.875)" fill="#22d3ee"><path d="M1 7.775V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 0 1 0 2.474l-5.026 5.026a1.75 1.75 0 0 1-2.474 0l-6.25-6.25A1.752 1.752 0 0 1 1 7.775Zm1.5 0c0 .066.026.13.073.177l6.25 6.25a.25.25 0 0 0 .354 0l5.025-5.025a.25.25 0 0 0 0-.354l-6.25-6.25a.25.25 0 0 0-.177-.073H2.75a.25.25 0 0 0-.25.25ZM6 5a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"/></g>
-  <text x="346.8" y="125" class="pill">v0.41.2</text><text x="42" y="160" class="desc">octoscope as a gh extension — gh extension install</text><text x="42" y="181" class="desc">gfazioli/gh-octoscope</text>
+  <text x="346.8" y="125" class="pill">v0.41.3</text><text x="42" y="160" class="desc">octoscope as a gh extension — gh extension install</text><text x="42" y="181" class="desc">gfazioli/gh-octoscope</text>
   <rect x="42" y="195" width="31.1" height="22" rx="11" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.08)"/>
   
   <text x="51.0" y="210" class="pill">cli</text>
@@ -192,21 +192,21 @@
   <g>
     <rect x="446.0" y="283" width="128.7" height="98" rx="14" fill="url(#tile-3)" stroke="#22d3ee4d"/>
     <g transform="translate(460 297) scale(1)" fill="#22d3ee"><path d="M1 7.775V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 0 1 0 2.474l-5.026 5.026a1.75 1.75 0 0 1-2.474 0l-6.25-6.25A1.752 1.752 0 0 1 1 7.775Zm1.5 0c0 .066.026.13.073.177l6.25 6.25a.25.25 0 0 0 .354 0l5.025-5.025a.25.25 0 0 0 0-.354l-6.25-6.25a.25.25 0 0 0-.177-.073H2.75a.25.25 0 0 0-.25.25ZM6 5a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"/></g>
-    <text x="460.0" y="343" class="value disp">18</text>
+    <text x="460.0" y="343" class="value disp">19</text>
     <text x="460.0" y="361" class="label disp">Tags</text>
-    <text x="460.0" y="374" class="sub">latest v0.41.2</text>
+    <text x="460.0" y="374" class="sub">latest v0.41.3</text>
   </g>
   <g>
     <rect x="586.7" y="283" width="128.7" height="98" rx="14" fill="url(#tile-4)" stroke="#60a5fa4d"/>
     <g transform="translate(600.7 297) scale(1)" fill="#60a5fa"><path d="m8.878.392 5.25 3.045c.54.314.872.89.872 1.514v6.098a1.75 1.75 0 0 1-.872 1.514l-5.25 3.045a1.75 1.75 0 0 1-1.756 0l-5.25-3.045A1.75 1.75 0 0 1 1 11.049V4.951c0-.624.332-1.201.872-1.514L7.122.392a1.75 1.75 0 0 1 1.756 0ZM7.875 1.69l-4.63 2.685L8 7.133l4.755-2.758-4.63-2.685a.248.248 0 0 0-.25 0ZM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432Zm6.25 8.271 4.625-2.683a.25.25 0 0 0 .125-.216V5.677L8.75 8.432Z"/></g>
-    <text x="600.7" y="343" class="value disp">18</text>
+    <text x="600.7" y="343" class="value disp">19</text>
     <text x="600.7" y="361" class="label disp">Releases</text>
-    <text x="600.7" y="374" class="sub">latest 2 days ago</text>
+    <text x="600.7" y="374" class="sub">latest today</text>
   </g>
   <g>
     <rect x="727.3" y="283" width="128.7" height="98" rx="14" fill="url(#tile-5)" stroke="#c084fc4d"/>
     <g transform="translate(741.3 297) scale(1)" fill="#c084fc"><path d="M2.75 14A1.75 1.75 0 0 1 1 12.25v-2.5a.75.75 0 0 1 1.5 0v2.5c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25v-2.5a.75.75 0 0 1 1.5 0v2.5A1.75 1.75 0 0 1 13.25 14Z"/><path d="M7.25 7.689V2a.75.75 0 0 1 1.5 0v5.689l1.97-1.969a.749.749 0 1 1 1.06 1.06l-3.25 3.25a.749.749 0 0 1-1.06 0L4.22 6.78a.749.749 0 1 1 1.06-1.06l1.97 1.969Z"/></g>
-    <text x="741.3" y="343" class="value disp">136</text>
+    <text x="741.3" y="343" class="value disp">142</text>
     <text x="741.3" y="361" class="label disp">Downloads</text>
     <text x="741.3" y="374" class="sub">release assets</text>
   </g>
@@ -346,36 +346,36 @@
   
   <g transform="translate(466 1301) scale(1)" fill="#38bdf8"><path d="m8.878.392 5.25 3.045c.54.314.872.89.872 1.514v6.098a1.75 1.75 0 0 1-.872 1.514l-5.25 3.045a1.75 1.75 0 0 1-1.756 0l-5.25-3.045A1.75 1.75 0 0 1 1 11.049V4.951c0-.624.332-1.201.872-1.514L7.122.392a1.75 1.75 0 0 1 1.756 0ZM7.875 1.69l-4.63 2.685L8 7.133l4.755-2.758-4.63-2.685a.248.248 0 0 0-.25 0ZM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432Zm6.25 8.271 4.625-2.683a.25.25 0 0 0 .125-.216V5.677L8.75 8.432Z"/></g>
   <text x="490" y="1314" class="title disp" style="fill: #38bdf8">Releases</text>
-  <text x="838" y="1314" class="caption" text-anchor="end">18 releases</text>
+  <text x="838" y="1314" class="caption" text-anchor="end">19 releases</text>
   
-  <rect x="466" y="1329" width="156.9" height="22" rx="11" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.08)"/>
+  <rect x="466" y="1329" width="190.8" height="22" rx="11" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.08)"/>
   <g transform="translate(474 1333) scale(0.875)" fill="#38bdf8"><path d="M5.75.75A.75.75 0 0 1 6.5 0h3a.75.75 0 0 1 0 1.5h-.75v1l-.001.041a6.724 6.724 0 0 1 3.464 1.435l.007-.006.75-.75a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734l-.75.75-.006.007a6.75 6.75 0 1 1-10.548 0L2.72 5.03l-.75-.75a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018l.75.75.007.006A6.72 6.72 0 0 1 7.25 2.541V1.5H6.5a.75.75 0 0 1-.75-.75ZM8 14.5a5.25 5.25 0 1 0-.001-10.501A5.25 5.25 0 0 0 8 14.5Zm.389-6.7 1.33-1.33a.75.75 0 1 1 1.061 1.06L9.45 8.861A1.503 1.503 0 0 1 8 10.75a1.499 1.499 0 1 1 .389-2.95Z"/></g>
-  <text x="493.0" y="1344" class="pill-k">Cadence<tspan dx="5" class="pill-v">One a week</tspan></text><line x1="475" y1="1378" x2="475" y2="1562" stroke="#38bdf8" stroke-opacity="0.35" stroke-width="2"/>
+  <text x="493.0" y="1344" class="pill-k">Cadence<tspan dx="5" class="pill-v">One every 6 days</tspan></text><line x1="475" y1="1378" x2="475" y2="1562" stroke="#38bdf8" stroke-opacity="0.35" stroke-width="2"/>
     <circle cx="475" cy="1378" r="9" fill="#221F44" stroke="#38bdf8" stroke-width="1.2"/>
     <g transform="translate(469 1372) scale(0.75)" fill="#38bdf8"><path d="M1 7.775V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 0 1 0 2.474l-5.026 5.026a1.75 1.75 0 0 1-2.474 0l-6.25-6.25A1.752 1.752 0 0 1 1 7.775Zm1.5 0c0 .066.026.13.073.177l6.25 6.25a.25.25 0 0 0 .354 0l5.025-5.025a.25.25 0 0 0 0-.354l-6.25-6.25a.25.25 0 0 0-.177-.073H2.75a.25.25 0 0 0-.25.25ZM6 5a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"/></g>
-    <text x="494" y="1383" class="tagname">v0.41.2</text>
-    <text x="838" y="1383" class="meta" text-anchor="end">2 days ago</text>
-    <text x="494" y="1400" class="excerpt">octoscope v0.41.2 as a gh extension.</text>
+    <text x="494" y="1383" class="tagname">v0.41.3</text>
+    <text x="838" y="1383" class="meta" text-anchor="end">today</text>
+    <text x="494" y="1400" class="excerpt">octoscope v0.41.3 as a gh extension.</text>
     <circle cx="475" cy="1424" r="9" fill="#221F44" stroke="#38bdf8" stroke-width="1.2"/>
     <g transform="translate(469 1418) scale(0.75)" fill="#38bdf8"><path d="M1 7.775V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 0 1 0 2.474l-5.026 5.026a1.75 1.75 0 0 1-2.474 0l-6.25-6.25A1.752 1.752 0 0 1 1 7.775Zm1.5 0c0 .066.026.13.073.177l6.25 6.25a.25.25 0 0 0 .354 0l5.025-5.025a.25.25 0 0 0 0-.354l-6.25-6.25a.25.25 0 0 0-.177-.073H2.75a.25.25 0 0 0-.25.25ZM6 5a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"/></g>
-    <text x="494" y="1429" class="tagname">v0.41.1</text>
-    <text x="838" y="1429" class="meta" text-anchor="end">last week</text>
-    <text x="494" y="1446" class="excerpt">octoscope v0.41.1 as a gh extension.</text>
+    <text x="494" y="1429" class="tagname">v0.41.2</text>
+    <text x="838" y="1429" class="meta" text-anchor="end">2 days ago</text>
+    <text x="494" y="1446" class="excerpt">octoscope v0.41.2 as a gh extension.</text>
     <circle cx="475" cy="1470" r="9" fill="#221F44" stroke="#38bdf8" stroke-width="1.2"/>
     <g transform="translate(469 1464) scale(0.75)" fill="#38bdf8"><path d="M1 7.775V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 0 1 0 2.474l-5.026 5.026a1.75 1.75 0 0 1-2.474 0l-6.25-6.25A1.752 1.752 0 0 1 1 7.775Zm1.5 0c0 .066.026.13.073.177l6.25 6.25a.25.25 0 0 0 .354 0l5.025-5.025a.25.25 0 0 0 0-.354l-6.25-6.25a.25.25 0 0 0-.177-.073H2.75a.25.25 0 0 0-.25.25ZM6 5a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"/></g>
-    <text x="494" y="1475" class="tagname">v0.41.0</text>
+    <text x="494" y="1475" class="tagname">v0.41.1</text>
     <text x="838" y="1475" class="meta" text-anchor="end">last week</text>
-    <text x="494" y="1492" class="excerpt">octoscope v0.41.0 as a gh extension.</text>
+    <text x="494" y="1492" class="excerpt">octoscope v0.41.1 as a gh extension.</text>
     <circle cx="475" cy="1516" r="9" fill="#221F44" stroke="#38bdf8" stroke-width="1.2"/>
     <g transform="translate(469 1510) scale(0.75)" fill="#38bdf8"><path d="M1 7.775V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 0 1 0 2.474l-5.026 5.026a1.75 1.75 0 0 1-2.474 0l-6.25-6.25A1.752 1.752 0 0 1 1 7.775Zm1.5 0c0 .066.026.13.073.177l6.25 6.25a.25.25 0 0 0 .354 0l5.025-5.025a.25.25 0 0 0 0-.354l-6.25-6.25a.25.25 0 0 0-.177-.073H2.75a.25.25 0 0 0-.25.25ZM6 5a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"/></g>
-    <text x="494" y="1521" class="tagname">v0.40.0</text>
+    <text x="494" y="1521" class="tagname">v0.41.0</text>
     <text x="838" y="1521" class="meta" text-anchor="end">last week</text>
-    <text x="494" y="1538" class="excerpt">octoscope v0.40.0 as a gh extension.</text>
+    <text x="494" y="1538" class="excerpt">octoscope v0.41.0 as a gh extension.</text>
     <circle cx="475" cy="1562" r="9" fill="#221F44" stroke="#38bdf8" stroke-width="1.2"/>
     <g transform="translate(469 1556) scale(0.75)" fill="#38bdf8"><path d="M1 7.775V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 0 1 0 2.474l-5.026 5.026a1.75 1.75 0 0 1-2.474 0l-6.25-6.25A1.752 1.752 0 0 1 1 7.775Zm1.5 0c0 .066.026.13.073.177l6.25 6.25a.25.25 0 0 0 .354 0l5.025-5.025a.25.25 0 0 0 0-.354l-6.25-6.25a.25.25 0 0 0-.177-.073H2.75a.25.25 0 0 0-.25.25ZM6 5a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"/></g>
-    <text x="494" y="1567" class="tagname">v0.39.0</text>
-    <text x="838" y="1567" class="meta" text-anchor="end">last month</text>
-    <text x="494" y="1584" class="excerpt">octoscope v0.39.0 as a gh extension.</text>
+    <text x="494" y="1567" class="tagname">v0.40.0</text>
+    <text x="838" y="1567" class="meta" text-anchor="end">last week</text>
+    <text x="494" y="1584" class="excerpt">octoscope v0.40.0 as a gh extension.</text>
 
   <rect x="24" y="1619" width="832" height="126" rx="14" class="panel"/>
   
