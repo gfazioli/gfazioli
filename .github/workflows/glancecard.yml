@@ -43,9 +43,11 @@ jobs:
           time-zone: Europe/Rome
           commit-message: "chore: refresh the glancecard cards"
       # Every other public repository with a README: one file each, <name>.svg,
-      # in one seasonal look. Halloween is worn from 1 October to 2 November and
-      # is Midnight the rest of the year; switching the season is this line
-      # alone, the READMEs point at the file, not at a look.
+      # in one seasonal look. Christmas is worn from 1 December to 6 January,
+      # Halloween from 1 October to 2 November, and either is Midnight the rest
+      # of the year: set `christmas` after Halloween, `halloween` again before
+      # October. Switching the season is the `theme:` line alone, the READMEs
+      # point at the file, not at a look.
       - uses: gfazioli/glancecard@14788d177cabef010443a61b25c3774e7be632e5 # v0.6.1
         with:
           repos: |
@@ -108,6 +110,6 @@ jobs:
             gfazioli/VagrantUbuntu
             gfazioli/wp-javascript-event
             gfazioli/wpdk-book
-          theme: halloween
+          theme: christmas
           time-zone: Europe/Rome
           commit-message: "chore: refresh the glancecard cards"
