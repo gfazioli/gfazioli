@@ -69,6 +69,7 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 >
 > - [octoscope](https://gfazioli.github.io/octoscope/) - _A cross-platform terminal dashboard for GitHub. Profile, social, activity, repo health and languages breakdown at a glance, auto-refreshed every 60 seconds, with native notifications when stars or followers change. Works on your own account or any public profile. Single binary via Homebrew, `go install`, or as a `gh` extension. Built with Go and BubbleTea._
 > - [glancecard](https://gfazioli.github.io/glancecard/) - _Your GitHub profile and repositories, at a glance: daily SVG cards for your READMEs. A repository dashboard laid out like FinderGit and a profile card, in nine looks with Halloween and Christmas in their season, rendered and committed by a GitHub Action in your own repository, or by its CLI. No server, no dependencies._
+> - [Manovella](https://manovella.mov) - _A Claude Code plugin that makes product films as code: promo loops, launch and release films, tutorials and README GIFs. Every frame is a pure function of time, rendered on your Mac with real motion blur and loops exact to the pixel, your product's UI rebuilt as vector. A Studio window briefs the film: looks, type, motion, devices, music and a local voice, heard before you choose. Built with JavaScript, Canvas, WebGL and FFmpeg._
 >
 > </details>
 >
