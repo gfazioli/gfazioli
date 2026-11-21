@@ -66,6 +66,7 @@ jobs:
             gfazioli/lancetta-website
             gfazioli/Laravel-Artisan-Supervisor-Command
             gfazioli/Laravel-Morris-PHP
+            gfazioli/manovella
             gfazioli/mantine-audio
             gfazioli/mantine-book
             gfazioli/mantine-border-animate
