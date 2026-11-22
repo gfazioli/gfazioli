@@ -31,11 +31,10 @@ jobs:
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-      - uses: gfazioli/glancecard@14788d177cabef010443a61b25c3774e7be632e5 # v0.6.1
+      - uses: gfazioli/glancecard@d1939c1cb00665d0c3d1fd89b9313dbefacede0a # v0.7.0
         with:
           profile: gfazioli
           repos: |
-            gfazioli/octoscope
             gfazioli/glancecard
           # dark and light for a <picture>; halloween is worn from 1 October
           # to 2 November and is Midnight the rest of the year.
@@ -48,7 +47,7 @@ jobs:
       # of the year: set `christmas` after Halloween, `halloween` again before
       # October. Switching the season is the `theme:` line alone, the READMEs
       # point at the file, not at a look.
-      - uses: gfazioli/glancecard@14788d177cabef010443a61b25c3774e7be632e5 # v0.6.1
+      - uses: gfazioli/glancecard@d1939c1cb00665d0c3d1fd89b9313dbefacede0a # v0.7.0
         with:
           repos: |
             gfazioli/amiga-assembly-library
@@ -113,5 +112,14 @@ jobs:
             gfazioli/wp-javascript-event
             gfazioli/wpdk-book
           theme: christmas
+          time-zone: Europe/Rome
+          commit-message: "chore: refresh the glancecard cards"
+      # octoscope, a terminal dashboard, wears a terminal's look: a Phosphor
+      # tube reads the same on GitHub's light theme as on its dark one, so it
+      # is one file, octoscope.svg, and its README a plain <img>.
+      - uses: gfazioli/glancecard@d1939c1cb00665d0c3d1fd89b9313dbefacede0a # v0.7.0
+        with:
+          repos: gfazioli/octoscope
+          theme: phosphor-green
           time-zone: Europe/Rome
           commit-message: "chore: refresh the glancecard cards"
