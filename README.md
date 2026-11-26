@@ -145,6 +145,9 @@ Building developer tools, UI components, and macOS apps — from Assembly on Com
 >
 > - [Bannerize](https://bannerize.vercel.app/) - _WordPress banner management with built-in impressions, clicks, and CTR analytics. Create image, HTML, or WebP banners, organize them into campaigns, and track performance with trend charts and CSV export. Built with WPBones and Mantine UI._
 > - [Scotty](https://scotty-plugin.vercel.app/) - _WordPress site maintenance and optimization with a modern React/Mantine dashboard. Clean your database, manage cron jobs, control 22+ hidden WordPress settings, and monitor site health — all from a single interface. Built with WPBones._
+> - [Add Browser Search](https://wordpress.org/plugins/add-browser-search/) - _Publishes your site's search as an OpenSearch description, so browsers can add it as a search engine and suggest post titles right in the address bar. Rebuilt from its 2009 original. Built with WPBones._
+> - [Feed Scroll Reader](https://wordpress.org/plugins/flash-feed-scroll-reader/) - _A horizontal scrolling ticker of RSS and Atom feed items in plain HTML and CSS, with a shortcode, a widget, a pause button and reduced-motion support. The 2009 Flash movie is gone. Built with WPBones._
+> - [WP Choose Your Theme](https://wordpress.org/plugins/wp-chooseyourtheme/) - _Lets visitors switch the site's front end to another installed theme you allowed, as a menu, a list or a roll, from a widget, a shortcode or a template tag, and remembers the choice in a cookie. Rebuilt from its 2010 original. Built with WPBones._
 >
 > </details>
 >
