@@ -31,7 +31,7 @@ jobs:
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-      - uses: gfazioli/glancecard@d1939c1cb00665d0c3d1fd89b9313dbefacede0a # v0.7.0
+      - uses: gfazioli/glancecard@38011be87f60ebf0e8eeb5d62c59643a07dfe8ca # v0.8.0
         with:
           profile: gfazioli
           repos: |
@@ -47,7 +47,7 @@ jobs:
       # of the year: set `christmas` after Halloween, `halloween` again before
       # October. Switching the season is the `theme:` line alone, the READMEs
       # point at the file, not at a look.
-      - uses: gfazioli/glancecard@d1939c1cb00665d0c3d1fd89b9313dbefacede0a # v0.7.0
+      - uses: gfazioli/glancecard@38011be87f60ebf0e8eeb5d62c59643a07dfe8ca # v0.8.0
         with:
           repos: |
             gfazioli/amiga-assembly-library
@@ -58,7 +58,6 @@ jobs:
             gfazioli/Chroma-Key
             gfazioli/commodore-64
             gfazioli/findergit-website
-            gfazioli/floppeek
             gfazioli/gfazioli.github.io
             gfazioli/gh-octoscope
             gfazioli/homebrew-tap
@@ -117,9 +116,19 @@ jobs:
       # octoscope, a terminal dashboard, wears a terminal's look: a Phosphor
       # tube reads the same on GitHub's light theme as on its dark one, so it
       # is one file, octoscope.svg, and its README a plain <img>.
-      - uses: gfazioli/glancecard@d1939c1cb00665d0c3d1fd89b9313dbefacede0a # v0.7.0
+      - uses: gfazioli/glancecard@38011be87f60ebf0e8eeb5d62c59643a07dfe8ca # v0.8.0
         with:
           repos: gfazioli/octoscope
           theme: phosphor-green
+          time-zone: Europe/Rome
+          commit-message: "chore: refresh the glancecard cards"
+      # Floppeek, Quick Look for Amiga disk images, wears the Workbench, the
+      # look made for its launch from its own site's windows: a screen reads
+      # the same on GitHub's light theme as on its dark one, so it is one
+      # file, floppeek.svg, and its README a plain <img>.
+      - uses: gfazioli/glancecard@38011be87f60ebf0e8eeb5d62c59643a07dfe8ca # v0.8.0
+        with:
+          repos: gfazioli/floppeek
+          theme: workbench
           time-zone: Europe/Rome
           commit-message: "chore: refresh the glancecard cards"
